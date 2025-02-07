@@ -1,0 +1,593 @@
+[
+    {
+      "id": "sei_0xe30fedd158a2e3b13e9badaeabafc5516e95e8c7",
+      "attributes": {
+        "address": "0xe30fedd158a2e3b13e9badaeabafc5516e95e8c7",
+        "name": "Wrapped Sei",
+        "symbol": "WSEI",
+        "decimals": 18,
+        "initialSupply": "10000000000000000000",
+        "logoUrl": "https://raw.githubusercontent.com/Sei-Public-Goods/sei-assetlist/main/images/Sei.png"
+      }
+    },
+    {
+      "id": "sei_0x5f0e07dfee5832faa00c63f2d33a0d79150e8598",
+      "attributes": {
+        "address": "0x5f0e07dfee5832faa00c63f2d33a0d79150e8598",
+        "name": "SEIYAN",
+        "symbol": "SEIYAN",
+        "decimals": 6,
+        "initialSupply": "1000000000000000000000",
+        "logoUrl": "https://raw.githubusercontent.com/Sei-Public-Goods/sei-assetlist/main/images/SEIYAN.png"
+      }
+    },
+    {
+      "id": "sei_0x5cf6826140c1c56ff49c808a1a75407cd1df9423",
+      "attributes": {
+        "address": "0x5cf6826140c1c56ff49c808a1a75407cd1df9423",
+        "name": "iSEI",
+        "symbol": "iSEI",
+        "decimals": 6,
+        "initialSupply": "10000000000000000000000000000000",
+        "logoUrl": "https://raw.githubusercontent.com/Sei-Public-Goods/sei-assetlist/main/images/iSEI.png"
+      }
+    },
+    {
+      "id": "sei_0x3894085ef7ff0f0aedf52e2a2704928d1ec074f1",
+      "attributes": {
+        "address": "0x3894085ef7ff0f0aedf52e2a2704928d1ec074f1",
+        "name": "USD Coin",
+        "symbol": "USDC",
+        "decimals": 6,
+        "initialSupply": "10000000000000000000",
+        "logoUrl": "https://raw.githubusercontent.com/Sei-Public-Goods/sei-assetlist/main/images/USDCoin.svg"
+      }
+    },
+    {
+      "id": "sei_0xb75d0b03c06a926e488e2659df1a861f860bd3d1",
+      "attributes": {
+        "address": "0xb75d0b03c06a926e488e2659df1a861f860bd3d1",
+        "name": "Tether USD",
+        "symbol": "USDT",
+        "decimals": 6,
+        "initialSupply": "10000000000000000000000000000000",
+        "logoUrl": "https://assets.coingecko.com/coins/images/325/standard/Tether.png?1696501661"
+      }
+    },
+    {
+      "id": "sei_0x160345fc359604fc6e70e3c5facbde5f7a9342d8",
+      "attributes": {
+        "address": "0x160345fc359604fc6e70e3c5facbde5f7a9342d8",
+        "name": "Bridged Wrapped Ether (Stargate)",
+        "symbol": "WETH",
+        "decimals": 18,
+        "initialSupply": "10000000000000000000000000000000",
+        "logoUrl": "https://raw.githubusercontent.com/Sei-Public-Goods/sei-assetlist/main/images/BridgedWrappedEther(Stargate).png"
+      }
+    },
+    {
+      "id": "sei_0xc18b6a15fb0ceaf5eb18696eefcb5bc7b9107149",
+      "attributes": {
+        "address": "0xc18b6a15fb0ceaf5eb18696eefcb5bc7b9107149",
+        "name": "POPO",
+        "symbol": "POPO",
+        "decimals": 18,
+        "initialSupply": "10000000000000000000000000000000",
+        "logoUrl": "https://raw.githubusercontent.com/dragonswap-app/assets/main/logos/0xc18b6a15fb0ceaf5eb18696eefcb5bc7b9107149/logo.png"
+      }
+    },
+    {
+      "id": "sei_0x95597eb8d227a7c4b4f5e807a815c5178ee6dbe1",
+      "attributes": {
+        "address": "0x95597eb8d227a7c4b4f5e807a815c5178ee6dbe1",
+        "name": "MILLI",
+        "symbol": "MILLI",
+        "decimals": 6,
+        "initialSupply": "10000000000000000000000000000000",
+        "logoUrl": "https://raw.githubusercontent.com/dragonswap-app/assets/main/logos/0x95597eb8d227a7c4b4f5e807a815c5178ee6dbe1/logo.png"
+      }
+    },
+    {
+      "id": "sei_0x64445f0aecc51e94ad52d8ac56b7190e764e561a",
+      "attributes": {
+        "address": "0x64445f0aecc51e94ad52d8ac56b7190e764e561a",
+        "name": "FXS",
+        "symbol": "FXS",
+        "decimals": 18,
+        "initialSupply": "10000000000000000000000000000000",
+        "logoUrl": "https://raw.githubusercontent.com/dragonswap-app/assets/main/logos/0x64445f0aecc51e94ad52d8ac56b7190e764e561a/logo.png"
+      }
+    },
+    {
+      "id": "sei_0x5c85726f71aFB7e26d769fB559Ce0168CE1F8f4E",
+      "attributes": {
+        "address": "0x5c85726f71aFB7e26d769fB559Ce0168CE1F8f4E",
+        "name": "SEI USAGI",
+        "symbol": "USA",
+        "decimals": 18,
+        "initialSupply": "10000000000000000000000000000000",
+        "logoUrl": "https://raw.githubusercontent.com/dragonswap-app/assets/main/logos/0x5c85726f71aFB7e26d769fB559Ce0168CE1F8f4E/logo.png"
+      }
+    },
+    {
+      "id": "sei_0x9C367a272f8E318D10118C6367fD69DEf30e430E",
+      "attributes": {
+        "address": "0x9C367a272f8E318D10118C6367fD69DEf30e430E",
+        "name": "Pepei",
+        "symbol": "PEPEI",
+        "decimals": 18,
+        "initialSupply": "10000000000000000000000000000000",
+        "logoUrl": "https://raw.githubusercontent.com/dragonswap-app/assets/main/logos/0x9C367a272f8E318D10118C6367fD69DEf30e430E/logo.png"
+      }
+    },
+    {
+      "id": "sei_0xECf7f1EFC9620A911339619C91c9FA0f71e0600E",
+      "attributes": {
+        "address": "0xECf7f1EFC9620A911339619C91c9FA0f71e0600E",
+        "name": "SEIYUN",
+        "symbol": "SEIYUN",
+        "decimals": 18,
+        "initialSupply": "10000000000000000000000000000000",
+        "logoUrl": "https://raw.githubusercontent.com/dragonswap-app/assets/main/logos/0xECf7f1EFC9620A911339619C91c9FA0f71e0600E/logo.png"
+      }
+    },
+    {
+      "id": "sei_0xd78BE621436e69C81E4d0e9f29bE14C5EC51E6Ae",
+      "attributes": {
+        "address": "0xd78BE621436e69C81E4d0e9f29bE14C5EC51E6Ae",
+        "name": "$gonad",
+        "symbol": "$GONAD",
+        "decimals": 18,
+        "initialSupply": "10000000000000000000000000000000",
+        "logoUrl": "https://raw.githubusercontent.com/dragonswap-app/assets/main/logos/0xd78BE621436e69C81E4d0e9f29bE14C5EC51E6Ae/logo.png"
+      }
+    },
+    {
+      "id": "sei_0x9134d733AaC991b96E899af657C717276A627E32",
+      "attributes": {
+        "address": "0x9134d733AaC991b96E899af657C717276A627E32",
+        "name": "FUCK ROY LOPEZ",
+        "symbol": "$FROY",
+        "decimals": 18,
+        "initialSupply": "10000000000000000000000000000000",
+        "logoUrl": "https://raw.githubusercontent.com/dragonswap-app/assets/main/logos/0x9134d733AaC991b96E899af657C717276A627E32/logo.png"
+      }
+    },
+    {
+      "id": "sei_0xb8D41DB605A3258010D531429E85b13C7abdE579",
+      "attributes": {
+        "address": "0xb8D41DB605A3258010D531429E85b13C7abdE579",
+        "name": "CHUCKCOIN",
+        "symbol": "CHUCK",
+        "decimals": 18,
+        "initialSupply": "10000000000000000000000000000000",
+        "logoUrl": "https://raw.githubusercontent.com/dragonswap-app/assets/main/logos/0xb8D41DB605A3258010D531429E85b13C7abdE579/logo.png"
+      }
+    },
+    {
+      "id": "sei_0xC6BC81A0E287cC8103cC002147a9d76caE4cD6E5",
+      "attributes": {
+        "address": "0xC6BC81A0E287cC8103cC002147a9d76caE4cD6E5",
+        "name": "SeiBallz",
+        "symbol": "BALLZ",
+        "decimals": 18,
+        "initialSupply": "10000000000000000000000000000000",
+        "logoUrl": "https://raw.githubusercontent.com/dragonswap-app/assets/main/logos/0xC6BC81A0E287cC8103cC002147a9d76caE4cD6E5/logo.png"
+      }
+    },
+    {
+      "id": "sei_0xf5020DC8eC5e0ef8869Ecc3044933356650b61Cf",
+      "attributes": {
+        "address": "0xf5020DC8eC5e0ef8869Ecc3044933356650b61Cf",
+        "name": "Jay jeo",
+        "symbol": "JAYJEO",
+        "decimals": 18,
+        "initialSupply": "10000000000000000000000000000000",
+        "logoUrl": "https://raw.githubusercontent.com/dragonswap-app/assets/main/logos/0xf5020DC8eC5e0ef8869Ecc3044933356650b61Cf/logo.png"
+      }
+    },
+    {
+      "id": "sei_0x6291148AE49e0f0d847bB97C4E060E49D87638bA",
+      "attributes": {
+        "address": "0x6291148AE49e0f0d847bB97C4E060E49D87638bA",
+        "name": "INSPECTOR",
+        "symbol": "REX",
+        "decimals": 18,
+        "initialSupply": "10000000000000000000000000000000",
+        "logoUrl": "https://raw.githubusercontent.com/dragonswap-app/assets/main/logos/0x6291148AE49e0f0d847bB97C4E060E49D87638bA/logo.png"
+      }
+    },
+    {
+      "id": "sei_0xe5085112160ff75ee89a540cdba570eafdaf7f57",
+      "attributes": {
+        "address": "0xe5085112160ff75ee89a540cdba570eafdaf7f57",
+        "name": "stSEI",
+        "symbol": "STSEI",
+        "decimals": 6,
+        "initialSupply": "10000000000000000000000000000000",
+        "logoUrl": "https://assets.coingecko.com/coins/images/34891/standard/STSEI.jpg"
+      }
+    },
+    {
+      "id": "sei_0x80Eede496655FB9047dd39d9f418d5483ED600df",
+      "attributes": {
+        "address": "0x80Eede496655FB9047dd39d9f418d5483ED600df",
+        "name": "Frax",
+        "symbol": "FRAX",
+        "decimals": 18,
+        "initialSupply": "10000000000000000000000000000000",
+        "logoUrl": "https://assets.coingecko.com/coins/images/13422/standard/FRAX_icon.png"
+      }
+    },
+    {
+      "id": "sei_0x3Ec3849C33291a9eF4c5dB86De593EB4A37fDe45",
+      "attributes": {
+        "address": "0x3Ec3849C33291a9eF4c5dB86De593EB4A37fDe45",
+        "name": "Staked Frax Ether",
+        "symbol": "sfrxETH",
+        "decimals": 18,
+        "initialSupply": "10000000000000000000000000000000",
+        "logoUrl": "https://assets.coingecko.com/coins/images/28285/standard/sfrxETH_icon.png"
+      }
+    },
+    {
+      "id": "sei_0x43eDD7f3831b08FE70B7555ddD373C8bF65a9050",
+      "attributes": {
+        "address": "0x43eDD7f3831b08FE70B7555ddD373C8bF65a9050",
+        "name": "Frax Ether",
+        "symbol": "frxETH",
+        "decimals": 18,
+        "initialSupply": "10000000000000000000000000000000",
+        "logoUrl": "https://assets.coingecko.com/coins/images/28284/standard/frxETH_icon.png"
+      }
+    },
+    {
+      "id": "sei_0x9fAaEA2CDd810b21594E54309DC847842Ae301Ce",
+      "attributes": {
+        "address": "0x9fAaEA2CDd810b21594E54309DC847842Ae301Ce",
+        "name": "seiyanETH",
+        "symbol": "seiyanETH",
+        "decimals": 18,
+        "initialSupply": "10000000000000000000000000000000",
+        "logoUrl": "https://sei.dinero.xyz/images/seiEth.svg"
+      }
+    },
+    {
+      "id": "sei_0xA8A3A5013104e093245164eA56588DBE10a3Eb48",
+      "attributes": {
+        "address": "0xA8A3A5013104e093245164eA56588DBE10a3Eb48",
+        "name": "ssETH",
+        "symbol": "ssETH",
+        "decimals": 18,
+        "initialSupply": "10000000000000000000000000000000",
+        "logoUrl": "https://assets.coingecko.com/coins/images/50331/standard/2024-09-18_19.52.53.jpg"
+      }
+    },
+    {
+      "id": "sei_0xDD7d5e4Ea2125d43C16eEd8f1FFeFffa2F4b4aF6",
+      "attributes": {
+        "address": "0xDD7d5e4Ea2125d43C16eEd8f1FFeFffa2F4b4aF6",
+        "name": "Jelly Token",
+        "symbol": "JLY",
+        "decimals": 18,
+        "initialSupply": "10000000000000000000000000000000",
+        "logoUrl": "https://assets.coingecko.com/coins/images/31805/standard/short.png"
+      }
+    },
+    {
+      "id": "sei_0x51121BCAE92E302f19D06C193C95E1f7b81a444b",
+      "attributes": {
+        "address": "0x51121BCAE92E302f19D06C193C95E1f7b81a444b",
+        "name": "YAKA",
+        "symbol": "YAKA",
+        "decimals": 18,
+        "initialSupply": "10000000000000000000000000000000",
+        "logoUrl": "https://assets.coingecko.com/markets/images/1695/large/yaka-finance.png"
+      }
+    },
+    {
+      "id": "sei_0x37a4dD9CED2b19Cfe8FAC251cd727b5787E45269",
+      "attributes": {
+        "address": "0x37a4dD9CED2b19Cfe8FAC251cd727b5787E45269",
+        "name": "fastUSD",
+        "symbol": "fastUSD",
+        "decimals": 18,
+        "initialSupply": "10000000000000000000000000000000",
+        "logoUrl": "https://assets.coingecko.com/coins/images/50766/standard/2024-10-16_14.54.03.jpg"
+      }
+    },
+    {
+      "id": "sei_0x0DD9e6A6AEb91f1e3596F69d5443b6ca2e864896",
+      "attributes": {
+        "address": "0x0DD9e6A6AEb91f1e3596F69d5443b6ca2e864896",
+        "name": "SHENRN",
+        "symbol": "SHENRN",
+        "decimals": 6,
+        "initialSupply": "10000000000000000000000000000000",
+        "logoUrl": "https://pbs.twimg.com/profile_images/1845176239599833100/49Zri2GZ_400x400.jpg"
+      }
+    },
+    {
+      "id": "sei_0xBd82f3bfE1dF0c84faEC88a22EbC34C9A86595dc",
+      "attributes": {
+        "address": "0xBd82f3bfE1dF0c84faEC88a22EbC34C9A86595dc",
+        "name": "CHIPS",
+        "symbol": "CHIPS",
+        "decimals": 6,
+        "initialSupply": "10000000000000000000000000000000",
+        "logoUrl": "https://pbs.twimg.com/profile_images/1844775184827310080/nBYzvxO__400x400.jpg"
+      }
+    },
+    {
+      "id": "sei_0xe85dC0CCECa105755753Fef452C091dEF5324138",
+      "attributes": {
+        "address": "0xe85dC0CCECa105755753Fef452C091dEF5324138",
+        "name": "SAKEINU",
+        "symbol": "SAKE",
+        "decimals": 18,
+        "initialSupply": "10000000000000000000000000000000",
+        "logoUrl": "https://pbs.twimg.com/profile_images/1788072882423410688/SfbieS0D_400x400.jpg"
+      }
+    },
+    {
+      "id": "sei_0x3eA30C06F4BA6f696D3ba4b660C39DA96ed8f686",
+      "attributes": {
+        "address": "0x3eA30C06F4BA6f696D3ba4b660C39DA96ed8f686",
+        "name": "Seibacca",
+        "symbol": "SBC",
+        "decimals": 18,
+        "initialSupply": "10000000000000000000000000000000",
+        "logoUrl": "https://pbs.twimg.com/profile_images/1848737046749138945/zfzUen47_400x400.jpg"
+      }
+    },
+    {
+      "id": "sei_0xd0D622dE44A521404dc50e4ABef08dE82269Dcbf",
+      "attributes": {
+        "address": "0xd0D622dE44A521404dc50e4ABef08dE82269Dcbf",
+        "name": "SEIFUN",
+        "symbol": "SFN",
+        "decimals": 18,
+        "initialSupply": "10000000000000000000000000000000",
+        "logoUrl": "https://pbs.twimg.com/profile_images/1821502633259008000/38s9t5Is_400x400.jpg"
+      }
+    },
+    {
+      "id": "sei_0x893CC8a006b88BeeF66c79bBb1C14b9c6c0AD7Cc",
+      "attributes": {
+        "address": "0x893CC8a006b88BeeF66c79bBb1C14b9c6c0AD7Cc",
+        "name": "UMI",
+        "symbol": "UMI",
+        "decimals": 6,
+        "initialSupply": "10000000000000000000000000000000",
+        "logoUrl": "https://pbs.twimg.com/profile_images/1841830626577600512/GvjRXEdp_400x400.jpg"
+      }
+    },
+    {
+      "id": "sei_0x962Aae191622498BcA205c1c1B73E59aC7d295f2",
+      "attributes": {
+        "address": "0x962Aae191622498BcA205c1c1B73E59aC7d295f2",
+        "name": "WILSON",
+        "symbol": "WILSON",
+        "decimals": 6,
+        "initialSupply": "10000000000000000000000000000000",
+        "logoUrl": "https://i.seipex.fi/upload/w_100,q_90/https://i.imgur.com/DkSqxty.jpeg"
+      }
+    },
+    {
+      "id": "sei_0x3A0A7a3cA25C17D15E8d51332fb25BFEA274d107",
+      "attributes": {
+        "address": "0x3A0A7a3cA25C17D15E8d51332fb25BFEA274d107",
+        "name": "SEIPEX CREDITS",
+        "symbol": "SPEX",
+        "decimals": 6,
+        "initialSupply": "10000000000000000000000000000000",
+        "logoUrl": "https://dzyb4dm7r8k8w.cloudfront.net/prod/logos/0x3A0A7a3cA25C17D15E8d51332fb25BFEA274d107/logo.png"
+      }
+    },
+    {
+      "id": "sei_0x67DA7010C6c231AD620E3940e707adB6c1a08f23",
+      "attributes": {
+        "address": "0x67DA7010C6c231AD620E3940e707adB6c1a08f23",
+        "name": "SeiWhale",
+        "symbol": "SEIWHALE",
+        "decimals": 6,
+        "initialSupply": "10000000000000000000000000000000",
+        "logoUrl": "https://dzyb4dm7r8k8w.cloudfront.net/prod/logos/0x67DA7010C6c231AD620E3940e707adB6c1a08f23/logo.png"
+      }
+    },
+    {
+      "id": "sei_0xF20903d034B12a7266055FE97cEBdB9199Ec6925",
+      "attributes": {
+        "address": "0xF20903d034B12a7266055FE97cEBdB9199Ec6925",
+        "name": "BOOBLE",
+        "symbol": "BOOBLE",
+        "decimals": 18,
+        "initialSupply": "10000000000000000000000000000000",
+        "logoUrl": "https://dzyb4dm7r8k8w.cloudfront.net/prod/logos/0xF20903d034B12a7266055FE97cEBdB9199Ec6925/logo.png"
+      }
+    },
+    {
+      "id": "sei_0x51c8F5D0305Ac6880B775eEDD217E400485c6A19",
+      "attributes": {
+        "address": "0x51c8F5D0305Ac6880B775eEDD217E400485c6A19",
+        "name": "NAPCAT",
+        "symbol": "NAPCAT",
+        "decimals": 18,
+        "initialSupply": "10000000000000000000000000000000",
+        "logoUrl": "https://pbs.twimg.com/profile_images/1835266232876208128/B639XW3h_400x400.jpg"
+      }
+    },
+    {
+      "id": "sei_0x490736a46aaBa689Db5265510B5C53aF4c23DEd4",
+      "attributes": {
+        "address": "0x490736a46aaBa689Db5265510B5C53aF4c23DEd4",
+        "name": "Happy Ape",
+        "symbol": "HAPE",
+        "decimals": 6,
+        "initialSupply": "10000000000000000000000000000000",
+        "logoUrl": "https://i.seipex.fi/upload/w_100,q_90/https://hapecoin.s3.eu-west-3.amazonaws.com/closeup.png"
+      }
+    },
+    {
+      "id": "sei_0xc972106cA2560fA0065e1CA01C9dC6D6e80cC7a1",
+      "attributes": {
+        "address": "0xc972106cA2560fA0065e1CA01C9dC6D6e80cC7a1",
+        "name": "SLOW",
+        "symbol": "SLOW",
+        "decimals": 6,
+        "initialSupply": "10000000000000000000000000000000",
+        "logoUrl": "https://i.seipex.fi/upload/w_100,q_90/https://pbs.twimg.com/profile_images/1839829156970016770/YNmmnFN2_400x400.jpg"
+      }
+    },
+    {
+      "id": "sei_0x8c5529ad032c48bc6413Df8e8dC83D26Dc680079",
+      "attributes": {
+        "address": "0x8c5529ad032c48bc6413Df8e8dC83D26Dc680079",
+        "name": "Sei Less",
+        "symbol": "LESS",
+        "decimals": 18,
+        "initialSupply": "10000000000000000000000000000000",
+        "logoUrl": "https://pbs.twimg.com/profile_images/1845438832008671234/yWw7EH2__400x400.jpg"
+      }
+    },
+    {
+      "id": "sei_0xd0C7EdF2109bE009364ac3DB76C6fE8a75728657",
+      "attributes": {
+        "address": "0xd0C7EdF2109bE009364ac3DB76C6fE8a75728657",
+        "name": "LORD SHISHO",
+        "symbol": "SHISHO",
+        "decimals": 6,
+        "initialSupply": "10000000000000000000000000000000",
+        "logoUrl": "https://dzyb4dm7r8k8w.cloudfront.net/prod/logos/0xd0C7EdF2109bE009364ac3DB76C6fE8a75728657/logo.png"
+      }
+    },
+    {
+      "id": "sei_0x74547390fe40D5cEA666008D44feBe1340E7a3B0",
+      "attributes": {
+        "address": "0x74547390fe40D5cEA666008D44feBe1340E7a3B0",
+        "name": "Oolong",
+        "symbol": "OOLONG",
+        "decimals": 6,
+        "initialSupply": "10000000000000000000000000000000",
+        "logoUrl": "https://pbs.twimg.com/profile_images/1840370770914029569/SbcQWwcE_400x400.jpg"
+      }
+    },
+    {
+      "id": "sei_0x69e48cE9CF965aCc1DE2aD5ad2FdbC3Bdb51509b",
+      "attributes": {
+        "address": "0x69e48cE9CF965aCc1DE2aD5ad2FdbC3Bdb51509b",
+        "name": "COOK",
+        "symbol": "COOK",
+        "decimals": 6,
+        "initialSupply": "10000000000000000000000000000000",
+        "logoUrl": "https://dzyb4dm7r8k8w.cloudfront.net/prod/logos/0x69e48cE9CF965aCc1DE2aD5ad2FdbC3Bdb51509b/logo.png"
+      }
+    },
+    {
+      "id": "sei_0xF9BDbF259eCe5ae17e29BF92EB7ABd7B8b465Db9",
+      "attributes": {
+        "address": "0xF9BDbF259eCe5ae17e29BF92EB7ABd7B8b465Db9",
+        "name": "Froggy",
+        "symbol": "FROG",
+        "decimals": 18,
+        "initialSupply": "10000000000000000000000000000000",
+        "logoUrl": "https://pbs.twimg.com/profile_images/1878265339642826752/gH03zhqx_400x400.jpg"
+      }
+    },
+    {
+      "id": "sei_0xCF40ACBed3f6307C33bF00680c9eDaE8F7d789fF",
+      "attributes": {
+        "address": "0xCF40ACBed3f6307C33bF00680c9eDaE8F7d789fF",
+        "name": "POCHITA",
+        "symbol": "POCHITA",
+        "decimals": 18,
+        "initialSupply": "10000000000000000000000000000000",
+        "logoUrl": "https://pbs.twimg.com/profile_images/1847462818582581253/UG-_IaNJ_400x400.jpg"
+      }
+    },{
+      "id": "sei_0x9D9b12c69555669966D36596C56061B6Cc0A937D",
+      "attributes": {
+        "address": "0x9D9b12c69555669966D36596C56061B6Cc0A937D",
+        "name": "xSEIYAN",
+        "symbol": "xSEIYAN",
+        "decimals": 18,
+        "initialSupply": "1000000000000000000000",
+        "logoUrl": "https://i.ibb.co/khDBKwB/seiyanlogo-1.png"
+      }
+    },{
+      "id": "sei_0x57fBA850EfcA7c72c270A252383767D741C3017F",
+      "attributes": {
+        "address": "0x57fBA850EfcA7c72c270A252383767D741C3017F",
+        "name": "KOSEI",
+        "symbol": "KOSEI",
+        "decimals": 6,
+        "initialSupply": "1000000000000000000000",
+        "logoUrl": "https://pbs.twimg.com/profile_images/1848321890269487104/fvfAQPxi_400x400.jpg"
+      }
+    },{
+      "id": "sei_0x00bc9aF972B5fb3b7fA04827bD3C17d4599BAd8b",
+      "attributes": {
+        "address": "0x00bc9aF972B5fb3b7fA04827bD3C17d4599BAd8b",
+        "name": "WAIT",
+        "symbol": "WAIT",
+        "decimals": 6,
+        "initialSupply": "1000000000000000000000",
+        "logoUrl": "https://dd.dexscreener.com/ds-data/tokens/seiv2/0x00bc9af972b5fb3b7fa04827bd3c17d4599bad8b.png"
+      }
+    },{
+      "id": "sei_0x0555E30da8f98308EdB960aa94C0Db47230d2B9c",
+      "attributes": {
+        "address": "0x0555E30da8f98308EdB960aa94C0Db47230d2B9c",
+        "name": "Wrapped BTC",
+        "symbol": "WBTC",
+        "decimals": 8,
+        "initialSupply": "1000000000000000000000",
+        "logoUrl": "https://raw.githubusercontent.com/dragonswap-app/assets/refs/heads/main/logos/0x0555E30da8f98308EdB960aa94C0Db47230d2B9c/logo.png"
+      }
+    },
+    {
+      "id": "sei_0x83c82f0f959aD3eff528eE513b43808Aa53f4B37",
+      "attributes": {
+        "address": "0x83c82f0f959aD3eff528eE513b43808Aa53f4B37",
+        "name": "Rock",
+        "symbol": "ROCK",
+        "decimals": 6,
+        "initialSupply": "1000000000000000000000",
+        "logoUrl": "https://raw.githubusercontent.com/dragonswap-app/assets/104eff3940183741fd9d7fa598e4d1fda7677299/logos/0x83c82f0f959aD3eff528eE513b43808Aa53f4B37/logo.png"
+      }
+    },
+    {
+      "id": "sei_0x09d9420332bff75522a45fcff4855f82a0a3ff50",
+      "attributes": {
+        "address": "0x09d9420332bff75522a45fcff4855f82a0a3ff50",
+        "name": "Dinero",
+        "symbol": "DINERO",
+        "decimals": 18,
+        "initialSupply": "1000000000000000000000",
+        "logoUrl": "https://cdn.jellyverse.org/tokens/dinero-token.svg"
+      }
+    },
+    {
+      "id": "sei_0x059A6b0bA116c63191182a0956cF697d0d2213eC",
+      "attributes": {
+        "address": "0x059A6b0bA116c63191182a0956cF697d0d2213eC",
+        "name": "Synnax Stablecoin",
+        "symbol": "syUSD",
+        "decimals": 18,
+        "initialSupply": "1000000000000000000000",
+        "logoUrl": "https://cdn.jellyverse.org/tokens/syusd-token.svg"
+      }
+    },
+    {
+      "id": "sei_0xea3910f1C6E687B59835885904A2FD1944B51Ec6",
+      "attributes": {
+        "address": "0xea3910f1C6E687B59835885904A2FD1944B51Ec6",
+        "name": "OFFICIAL TRUMP",
+        "symbol": "TRUMP",
+        "decimals": 18,
+        "initialSupply": "1000000000000000000000",
+        "logoUrl": "https://dzyb4dm7r8k8w.cloudfront.net/prod/logos/0xea3910f1C6E687B59835885904A2FD1944B51Ec6/logo.png"
+      }
+    }
+  ]
+  
