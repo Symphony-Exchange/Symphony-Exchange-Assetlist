@@ -603,6 +603,28 @@
         "initialSupply": "1000000000000000000000",
         "logoUrl": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0xdf77686D99667Ae56BC18f539B777DBc2BBE3E9F.png"
       }
+    },
+    {
+        "id": "sei_0x5Bff88cA1442c2496f7E475E9e7786383Bc070c0",
+        "attributes": {
+          "address": "0x5Bff88cA1442c2496f7E475E9e7786383Bc070c0",
+          "name": "Staked Frax",
+          "symbol": "SFRAX",
+          "decimals": 18,
+          "initialSupply": "1000000000000000000000",
+          "logoUrl": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0x5Bff88cA1442c2496f7E475E9e7786383Bc070c0.png"
+      }
+    },
+    {
+        "id": "sei_0x4c6Dd2CA85Ca55C4607Cd66A7EBdD2C9b58112Cf",
+        "attributes": {
+          "address": "0x4c6Dd2CA85Ca55C4607Cd66A7EBdD2C9b58112Cf",
+          "name": "jUSD",
+          "symbol": "jUSD",
+          "decimals": 18,
+          "initialSupply": "1000000000000000000000",
+          "logoUrl": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0x4c6Dd2CA85Ca55C4607Cd66A7EBdD2C9b58112Cf.png"
+      }
     }
   ]
   
