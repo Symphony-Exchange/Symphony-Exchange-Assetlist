@@ -583,17 +583,6 @@
       }
     },
     {
-      "id": "sei_0xea3910f1C6E687B59835885904A2FD1944B51Ec6",
-      "attributes": {
-        "address": "0xea3910f1C6E687B59835885904A2FD1944B51Ec6",
-        "name": "OFFICIAL TRUMP",
-        "symbol": "TRUMP",
-        "decimals": 18,
-        "initialSupply": "1000000000000000000000",
-        "logoUrl": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0xea3910f1C6E687B59835885904A2FD1944B51Ec6.png"
-      }
-    },
-    {
       "id": "sei_0xdf77686D99667Ae56BC18f539B777DBc2BBE3E9F",
       "attributes": {
         "address": "0xdf77686D99667Ae56BC18f539B777DBc2BBE3E9F",
