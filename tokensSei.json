@@ -614,6 +614,28 @@
           "initialSupply": "1000000000000000000000",
           "logoUrl": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0x4c6Dd2CA85Ca55C4607Cd66A7EBdD2C9b58112Cf.png"
       }
-    }
+    },
+      {
+        "id": "sei_0x6ab5d5e96ac59f66bab57450275cc16961219796",
+        "attributes": {
+          "address": "0x6ab5d5e96ac59f66bab57450275cc16961219796",
+          "name": "sUSDa",
+          "symbol": "sUSDa",
+          "decimals": 18,
+          "initialSupply": "1000000000000000000000",
+          "logoUrl": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0x6ab5d5e96ac59f66bab57450275cc16961219796.png"
+        }
+     },
+      {
+        "id": "sei_0xff12470a969Dd362EB6595FFB44C82c959Fe9ACc",
+        "attributes": {
+          "address": "0xff12470a969Dd362EB6595FFB44C82c959Fe9ACc",
+          "name": "USDa",
+          "symbol": "USDa",
+          "decimals": 18,
+          "initialSupply": "1000000000000000000000",
+          "logoUrl": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0xff12470a969Dd362EB6595FFB44C82c959Fe9ACc.png"
+      }
+     }
   ]
   
