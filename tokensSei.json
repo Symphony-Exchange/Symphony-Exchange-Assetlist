@@ -636,6 +636,17 @@
           "initialSupply": "1000000000000000000000",
           "logoUrl": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0xff12470a969Dd362EB6595FFB44C82c959Fe9ACc.png"
       }
-     }
+     },
+      {
+        "id": "sei_0xBE574b6219C6D985d08712e90C21A88fd55f1ae8",
+        "attributes": {
+          "address": "0xBE574b6219C6D985d08712e90C21A88fd55f1ae8",
+          "name": "WSTETH",
+          "symbol": "WSTETH",
+          "decimals": 18,
+          "initialSupply": "1000000000000000000000",
+          "logoUrl": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0xBE574b6219C6D985d08712e90C21A88fd55f1ae8.png"
+       }
+      }
   ]
   
