@@ -1,652 +1,662 @@
 [
-    {
-      "id": "sei_0xe30fedd158a2e3b13e9badaeabafc5516e95e8c7",
-      "attributes": {
-        "address": "0xe30fedd158a2e3b13e9badaeabafc5516e95e8c7",
-        "name": "Wrapped Sei",
-        "symbol": "WSEI",
-        "decimals": 18,
-        "initialSupply": "10000000000000000000",
-        "logoUrl": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0xe30fedd158a2e3b13e9badaeabafc5516e95e8c7.png"
-      }
-    },
-    {
-      "id": "sei_0x5f0e07dfee5832faa00c63f2d33a0d79150e8598",
-      "attributes": {
-        "address": "0x5f0e07dfee5832faa00c63f2d33a0d79150e8598",
-        "name": "SEIYAN",
-        "symbol": "SEIYAN",
-        "decimals": 6,
-        "initialSupply": "1000000000000000000000",
-        "logoUrl": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0x5f0e07dfee5832faa00c63f2d33a0d79150e8598.png"
-      }
-    },
-    {
-      "id": "sei_0x5cf6826140c1c56ff49c808a1a75407cd1df9423",
-      "attributes": {
-        "address": "0x5cf6826140c1c56ff49c808a1a75407cd1df9423",
-        "name": "iSEI",
-        "symbol": "iSEI",
-        "decimals": 6,
-        "initialSupply": "10000000000000000000000000000000",
-        "logoUrl": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0x5cf6826140c1c56ff49c808a1a75407cd1df9423.png"
-      }
-    },
-    {
-      "id": "sei_0x3894085ef7ff0f0aedf52e2a2704928d1ec074f1",
-      "attributes": {
-        "address": "0x3894085ef7ff0f0aedf52e2a2704928d1ec074f1",
-        "name": "USD Coin",
-        "symbol": "USDC",
-        "decimals": 6,
-        "initialSupply": "10000000000000000000",
-        "logoUrl": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0x3894085ef7ff0f0aedf52e2a2704928d1ec074f1.png"
-      }
-    },
-    {
-      "id": "sei_0xb75d0b03c06a926e488e2659df1a861f860bd3d1",
-      "attributes": {
-        "address": "0xb75d0b03c06a926e488e2659df1a861f860bd3d1",
-        "name": "Tether USD",
-        "symbol": "USDT",
-        "decimals": 6,
-        "initialSupply": "10000000000000000000000000000000",
-        "logoUrl": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0xb75d0b03c06a926e488e2659df1a861f860bd3d1.png"
-      }
-    },
-    {
-      "id": "sei_0x160345fc359604fc6e70e3c5facbde5f7a9342d8",
-      "attributes": {
-        "address": "0x160345fc359604fc6e70e3c5facbde5f7a9342d8",
-        "name": "Bridged Wrapped Ether (Stargate)",
-        "symbol": "WETH",
-        "decimals": 18,
-        "initialSupply": "10000000000000000000000000000000",
-        "logoUrl": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0x160345fc359604fc6e70e3c5facbde5f7a9342d8.png"
-      }
-    },
-    {
-      "id": "sei_0xc18b6a15fb0ceaf5eb18696eefcb5bc7b9107149",
-      "attributes": {
-        "address": "0xc18b6a15fb0ceaf5eb18696eefcb5bc7b9107149",
-        "name": "POPO",
-        "symbol": "POPO",
-        "decimals": 18,
-        "initialSupply": "10000000000000000000000000000000",
-        "logoUrl": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0xc18b6a15fb0ceaf5eb18696eefcb5bc7b9107149.png"
-      }
-    },
-    {
-      "id": "sei_0x95597eb8d227a7c4b4f5e807a815c5178ee6dbe1",
-      "attributes": {
-        "address": "0x95597eb8d227a7c4b4f5e807a815c5178ee6dbe1",
-        "name": "MILLI",
-        "symbol": "MILLI",
-        "decimals": 6,
-        "initialSupply": "10000000000000000000000000000000",
-        "logoUrl": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0x95597eb8d227a7c4b4f5e807a815c5178ee6dbe1.png"
-      }
-    },
-    {
-      "id": "sei_0x64445f0aecc51e94ad52d8ac56b7190e764e561a",
-      "attributes": {
-        "address": "0x64445f0aecc51e94ad52d8ac56b7190e764e561a",
-        "name": "FXS",
-        "symbol": "FXS",
-        "decimals": 18,
-        "initialSupply": "10000000000000000000000000000000",
-        "logoUrl": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0x64445f0aecc51e94ad52d8ac56b7190e764e561a.png"
-      }
-    },
-    {
-      "id": "sei_0x5c85726f71aFB7e26d769fB559Ce0168CE1F8f4E",
-      "attributes": {
-        "address": "0x5c85726f71aFB7e26d769fB559Ce0168CE1F8f4E",
-        "name": "SEI USAGI",
-        "symbol": "USA",
-        "decimals": 18,
-        "initialSupply": "10000000000000000000000000000000",
-        "logoUrl": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0x5c85726f71aFB7e26d769fB559Ce0168CE1F8f4E.png"
-      }
-    },
-    {
-      "id": "sei_0x9C367a272f8E318D10118C6367fD69DEf30e430E",
-      "attributes": {
-        "address": "0x9C367a272f8E318D10118C6367fD69DEf30e430E",
-        "name": "Pepei",
-        "symbol": "PEPEI",
-        "decimals": 18,
-        "initialSupply": "10000000000000000000000000000000",
-        "logoUrl": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0x9C367a272f8E318D10118C6367fD69DEf30e430E.png"
-      }
-    },
-    {
-      "id": "sei_0xECf7f1EFC9620A911339619C91c9FA0f71e0600E",
-      "attributes": {
-        "address": "0xECf7f1EFC9620A911339619C91c9FA0f71e0600E",
-        "name": "SEIYUN",
-        "symbol": "SEIYUN",
-        "decimals": 18,
-        "initialSupply": "10000000000000000000000000000000",
-        "logoUrl": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0xECf7f1EFC9620A911339619C91c9FA0f71e0600E.png"
-      }
-    },
-    {
-      "id": "sei_0xd78BE621436e69C81E4d0e9f29bE14C5EC51E6Ae",
-      "attributes": {
-        "address": "0xd78BE621436e69C81E4d0e9f29bE14C5EC51E6Ae",
-        "name": "$gonad",
-        "symbol": "$GONAD",
-        "decimals": 18,
-        "initialSupply": "10000000000000000000000000000000",
-        "logoUrl": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0xd78BE621436e69C81E4d0e9f29bE14C5EC51E6Ae.png"
-      }
-    },
-    {
-      "id": "sei_0x9134d733AaC991b96E899af657C717276A627E32",
-      "attributes": {
-        "address": "0x9134d733AaC991b96E899af657C717276A627E32",
-        "name": "FUCK ROY LOPEZ",
-        "symbol": "$FROY",
-        "decimals": 18,
-        "initialSupply": "10000000000000000000000000000000",
-        "logoUrl": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0x9134d733AaC991b96E899af657C717276A627E32.png"
-      }
-    },
-    {
-      "id": "sei_0xb8D41DB605A3258010D531429E85b13C7abdE579",
-      "attributes": {
-        "address": "0xb8D41DB605A3258010D531429E85b13C7abdE579",
-        "name": "CHUCKCOIN",
-        "symbol": "CHUCK",
-        "decimals": 18,
-        "initialSupply": "10000000000000000000000000000000",
-        "logoUrl": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0xb8D41DB605A3258010D531429E85b13C7abdE579.png"
-      }
-    },
-    {
-      "id": "sei_0xC6BC81A0E287cC8103cC002147a9d76caE4cD6E5",
-      "attributes": {
-        "address": "0xC6BC81A0E287cC8103cC002147a9d76caE4cD6E5",
-        "name": "SeiBallz",
-        "symbol": "BALLZ",
-        "decimals": 18,
-        "initialSupply": "10000000000000000000000000000000",
-        "logoUrl": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0xC6BC81A0E287cC8103cC002147a9d76caE4cD6E5.png"
-      }
-    },
-    {
-      "id": "sei_0xf5020DC8eC5e0ef8869Ecc3044933356650b61Cf",
-      "attributes": {
-        "address": "0xf5020DC8eC5e0ef8869Ecc3044933356650b61Cf",
-        "name": "Jay jeo",
-        "symbol": "JAYJEO",
-        "decimals": 18,
-        "initialSupply": "10000000000000000000000000000000",
-        "logoUrl": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0xf5020DC8eC5e0ef8869Ecc3044933356650b61Cf.png"
-      }
-    },
-    {
-      "id": "sei_0x6291148AE49e0f0d847bB97C4E060E49D87638bA",
-      "attributes": {
-        "address": "0x6291148AE49e0f0d847bB97C4E060E49D87638bA",
-        "name": "INSPECTOR",
-        "symbol": "REX",
-        "decimals": 18,
-        "initialSupply": "10000000000000000000000000000000",
-        "logoUrl": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0x6291148AE49e0f0d847bB97C4E060E49D87638bA.png"
-      }
-    },
-    {
-      "id": "sei_0xe5085112160ff75ee89a540cdba570eafdaf7f57",
-      "attributes": {
-        "address": "0xe5085112160ff75ee89a540cdba570eafdaf7f57",
-        "name": "stSEI",
-        "symbol": "STSEI",
-        "decimals": 6,
-        "initialSupply": "10000000000000000000000000000000",
-        "logoUrl": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0xe5085112160ff75ee89a540cdba570eafdaf7f57.png"
-      }
-    },
-    {
-      "id": "sei_0x80Eede496655FB9047dd39d9f418d5483ED600df",
-      "attributes": {
-        "address": "0x80Eede496655FB9047dd39d9f418d5483ED600df",
-        "name": "Frax",
-        "symbol": "FRAX",
-        "decimals": 18,
-        "initialSupply": "10000000000000000000000000000000",
-        "logoUrl": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0x80Eede496655FB9047dd39d9f418d5483ED600df.png"
-      }
-    },
-    {
-      "id": "sei_0x3Ec3849C33291a9eF4c5dB86De593EB4A37fDe45",
-      "attributes": {
-        "address": "0x3Ec3849C33291a9eF4c5dB86De593EB4A37fDe45",
-        "name": "Staked Frax Ether",
-        "symbol": "sfrxETH",
-        "decimals": 18,
-        "initialSupply": "10000000000000000000000000000000",
-        "logoUrl": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0x3Ec3849C33291a9eF4c5dB86De593EB4A37fDe45.png"
-      }
-    },
-    {
-      "id": "sei_0x43eDD7f3831b08FE70B7555ddD373C8bF65a9050",
-      "attributes": {
-        "address": "0x43eDD7f3831b08FE70B7555ddD373C8bF65a9050",
-        "name": "Frax Ether",
-        "symbol": "frxETH",
-        "decimals": 18,
-        "initialSupply": "10000000000000000000000000000000",
-        "logoUrl": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0x43eDD7f3831b08FE70B7555ddD373C8bF65a9050.png"
-      }
-    },
-    {
-      "id": "sei_0x9fAaEA2CDd810b21594E54309DC847842Ae301Ce",
-      "attributes": {
-        "address": "0x9fAaEA2CDd810b21594E54309DC847842Ae301Ce",
-        "name": "seiyanETH",
-        "symbol": "seiyanETH",
-        "decimals": 18,
-        "initialSupply": "10000000000000000000000000000000",
-        "logoUrl": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0x9fAaEA2CDd810b21594E54309DC847842Ae301Ce.png"
-      }
-    },
-    {
-      "id": "sei_0xA8A3A5013104e093245164eA56588DBE10a3Eb48",
-      "attributes": {
-        "address": "0xA8A3A5013104e093245164eA56588DBE10a3Eb48",
-        "name": "ssETH",
-        "symbol": "ssETH",
-        "decimals": 18,
-        "initialSupply": "10000000000000000000000000000000",
-        "logoUrl": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0xA8A3A5013104e093245164eA56588DBE10a3Eb48.png"
-      }
-    },
-    {
-      "id": "sei_0xDD7d5e4Ea2125d43C16eEd8f1FFeFffa2F4b4aF6",
-      "attributes": {
-        "address": "0xDD7d5e4Ea2125d43C16eEd8f1FFeFffa2F4b4aF6",
-        "name": "Jelly Token",
-        "symbol": "JLY",
-        "decimals": 18,
-        "initialSupply": "10000000000000000000000000000000",
-        "logoUrl": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0xDD7d5e4Ea2125d43C16eEd8f1FFeFffa2F4b4aF6.png"
-      }
-    },
-    {
-      "id": "sei_0x51121BCAE92E302f19D06C193C95E1f7b81a444b",
-      "attributes": {
-        "address": "0x51121BCAE92E302f19D06C193C95E1f7b81a444b",
-        "name": "YAKA",
-        "symbol": "YAKA",
-        "decimals": 18,
-        "initialSupply": "10000000000000000000000000000000",
-        "logoUrl": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0x51121BCAE92E302f19D06C193C95E1f7b81a444b.png"
-      }
-    },
-    {
-      "id": "sei_0x37a4dD9CED2b19Cfe8FAC251cd727b5787E45269",
-      "attributes": {
-        "address": "0x37a4dD9CED2b19Cfe8FAC251cd727b5787E45269",
-        "name": "fastUSD",
-        "symbol": "fastUSD",
-        "decimals": 18,
-        "initialSupply": "10000000000000000000000000000000",
-        "logoUrl": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0x37a4dD9CED2b19Cfe8FAC251cd727b5787E45269.png"
-      }
-    },
-    {
-      "id": "sei_0x0DD9e6A6AEb91f1e3596F69d5443b6ca2e864896",
-      "attributes": {
-        "address": "0x0DD9e6A6AEb91f1e3596F69d5443b6ca2e864896",
-        "name": "SHENRN",
-        "symbol": "SHENRN",
-        "decimals": 6,
-        "initialSupply": "10000000000000000000000000000000",
-        "logoUrl": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0x0DD9e6A6AEb91f1e3596F69d5443b6ca2e864896.png"
-      }
-    },
-    {
-      "id": "sei_0xBd82f3bfE1dF0c84faEC88a22EbC34C9A86595dc",
-      "attributes": {
-        "address": "0xBd82f3bfE1dF0c84faEC88a22EbC34C9A86595dc",
-        "name": "CHIPS",
-        "symbol": "CHIPS",
-        "decimals": 6,
-        "initialSupply": "10000000000000000000000000000000",
-        "logoUrl": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0xBd82f3bfE1dF0c84faEC88a22EbC34C9A86595dc.png"
-      }
-    },
-    {
-      "id": "sei_0xe85dC0CCECa105755753Fef452C091dEF5324138",
-      "attributes": {
-        "address": "0xe85dC0CCECa105755753Fef452C091dEF5324138",
-        "name": "SAKEINU",
-        "symbol": "SAKE",
-        "decimals": 18,
-        "initialSupply": "10000000000000000000000000000000",
-        "logoUrl": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0xe85dC0CCECa105755753Fef452C091dEF5324138.png"
-      }
-    },
-    {
-      "id": "sei_0x3eA30C06F4BA6f696D3ba4b660C39DA96ed8f686",
-      "attributes": {
-        "address": "0x3eA30C06F4BA6f696D3ba4b660C39DA96ed8f686",
-        "name": "Seibacca",
-        "symbol": "SBC",
-        "decimals": 18,
-        "initialSupply": "10000000000000000000000000000000",
-        "logoUrl": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0x3eA30C06F4BA6f696D3ba4b660C39DA96ed8f686.png"
-      }
-    },
-    {
-      "id": "sei_0xd0D622dE44A521404dc50e4ABef08dE82269Dcbf",
-      "attributes": {
-        "address": "0xd0D622dE44A521404dc50e4ABef08dE82269Dcbf",
-        "name": "SEIFUN",
-        "symbol": "SFN",
-        "decimals": 18,
-        "initialSupply": "10000000000000000000000000000000",
-        "logoUrl": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0xd0D622dE44A521404dc50e4ABef08dE82269Dcbf.png"
-      }
-    },
-    {
-      "id": "sei_0x893CC8a006b88BeeF66c79bBb1C14b9c6c0AD7Cc",
-      "attributes": {
-        "address": "0x893CC8a006b88BeeF66c79bBb1C14b9c6c0AD7Cc",
-        "name": "UMI",
-        "symbol": "UMI",
-        "decimals": 6,
-        "initialSupply": "10000000000000000000000000000000",
-        "logoUrl": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0x893CC8a006b88BeeF66c79bBb1C14b9c6c0AD7Cc.png"
-      }
-    },
-    {
-      "id": "sei_0x962Aae191622498BcA205c1c1B73E59aC7d295f2",
-      "attributes": {
-        "address": "0x962Aae191622498BcA205c1c1B73E59aC7d295f2",
-        "name": "WILSON",
-        "symbol": "WILSON",
-        "decimals": 6,
-        "initialSupply": "10000000000000000000000000000000",
-        "logoUrl": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0x962Aae191622498BcA205c1c1B73E59aC7d295f2.png"
-      }
-    },
-    {
-      "id": "sei_0x3A0A7a3cA25C17D15E8d51332fb25BFEA274d107",
-      "attributes": {
-        "address": "0x3A0A7a3cA25C17D15E8d51332fb25BFEA274d107",
-        "name": "SEIPEX CREDITS",
-        "symbol": "SPEX",
-        "decimals": 6,
-        "initialSupply": "10000000000000000000000000000000",
-        "logoUrl": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0x3A0A7a3cA25C17D15E8d51332fb25BFEA274d107.png"
-      }
-    },
-    {
-      "id": "sei_0x67DA7010C6c231AD620E3940e707adB6c1a08f23",
-      "attributes": {
-        "address": "0x67DA7010C6c231AD620E3940e707adB6c1a08f23",
-        "name": "SeiWhale",
-        "symbol": "SEIWHALE",
-        "decimals": 6,
-        "initialSupply": "10000000000000000000000000000000",
-        "logoUrl": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0x67DA7010C6c231AD620E3940e707adB6c1a08f23.png"
-      }
-    },
-    {
-      "id": "sei_0xF20903d034B12a7266055FE97cEBdB9199Ec6925",
-      "attributes": {
-        "address": "0xF20903d034B12a7266055FE97cEBdB9199Ec6925",
-        "name": "BOOBLE",
-        "symbol": "BOOBLE",
-        "decimals": 18,
-        "initialSupply": "10000000000000000000000000000000",
-        "logoUrl": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0xF20903d034B12a7266055FE97cEBdB9199Ec6925.png"
-      }
-    },
-    {
-      "id": "sei_0x51c8F5D0305Ac6880B775eEDD217E400485c6A19",
-      "attributes": {
-        "address": "0x51c8F5D0305Ac6880B775eEDD217E400485c6A19",
-        "name": "NAPCAT",
-        "symbol": "NAPCAT",
-        "decimals": 18,
-        "initialSupply": "10000000000000000000000000000000",
-        "logoUrl": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0x51c8F5D0305Ac6880B775eEDD217E400485c6A19.png"
-      }
-    },
-    {
-      "id": "sei_0x490736a46aaBa689Db5265510B5C53aF4c23DEd4",
-      "attributes": {
-        "address": "0x490736a46aaBa689Db5265510B5C53aF4c23DEd4",
-        "name": "Happy Ape",
-        "symbol": "HAPE",
-        "decimals": 6,
-        "initialSupply": "10000000000000000000000000000000",
-        "logoUrl": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0x490736a46aaBa689Db5265510B5C53aF4c23DEd4.png"
-      }
-    },
-    {
-      "id": "sei_0xc972106cA2560fA0065e1CA01C9dC6D6e80cC7a1",
-      "attributes": {
-        "address": "0xc972106cA2560fA0065e1CA01C9dC6D6e80cC7a1",
-        "name": "SLOW",
-        "symbol": "SLOW",
-        "decimals": 6,
-        "initialSupply": "10000000000000000000000000000000",
-        "logoUrl": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0xc972106cA2560fA0065e1CA01C9dC6D6e80cC7a1.png"
-      }
-    },
-    {
-      "id": "sei_0x8c5529ad032c48bc6413Df8e8dC83D26Dc680079",
-      "attributes": {
-        "address": "0x8c5529ad032c48bc6413Df8e8dC83D26Dc680079",
-        "name": "Sei Less",
-        "symbol": "LESS",
-        "decimals": 18,
-        "initialSupply": "10000000000000000000000000000000",
-        "logoUrl": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0x8c5529ad032c48bc6413Df8e8dC83D26Dc680079.png"
-      }
-    },
-    {
-      "id": "sei_0xd0C7EdF2109bE009364ac3DB76C6fE8a75728657",
-      "attributes": {
-        "address": "0xd0C7EdF2109bE009364ac3DB76C6fE8a75728657",
-        "name": "LORD SHISHO",
-        "symbol": "SHISHO",
-        "decimals": 6,
-        "initialSupply": "10000000000000000000000000000000",
-        "logoUrl": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0xd0C7EdF2109bE009364ac3DB76C6fE8a75728657.png"
-      }
-    },
-    {
-      "id": "sei_0x74547390fe40D5cEA666008D44feBe1340E7a3B0",
-      "attributes": {
-        "address": "0x74547390fe40D5cEA666008D44feBe1340E7a3B0",
-        "name": "Oolong",
-        "symbol": "OOLONG",
-        "decimals": 6,
-        "initialSupply": "10000000000000000000000000000000",
-        "logoUrl": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0x74547390fe40D5cEA666008D44feBe1340E7a3B0.png"
-      }
-    },
-    {
-      "id": "sei_0x69e48cE9CF965aCc1DE2aD5ad2FdbC3Bdb51509b",
-      "attributes": {
-        "address": "0x69e48cE9CF965aCc1DE2aD5ad2FdbC3Bdb51509b",
-        "name": "COOK",
-        "symbol": "COOK",
-        "decimals": 6,
-        "initialSupply": "10000000000000000000000000000000",
-        "logoUrl": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0x69e48cE9CF965aCc1DE2aD5ad2FdbC3Bdb51509b.png"
-      }
-    },
-    {
-      "id": "sei_0xF9BDbF259eCe5ae17e29BF92EB7ABd7B8b465Db9",
-      "attributes": {
-        "address": "0xF9BDbF259eCe5ae17e29BF92EB7ABd7B8b465Db9",
-        "name": "Froggy",
-        "symbol": "FROG",
-        "decimals": 18,
-        "initialSupply": "10000000000000000000000000000000",
-        "logoUrl": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0xF9BDbF259eCe5ae17e29BF92EB7ABd7B8b465Db9.png"
-      }
-    },
-    {
-      "id": "sei_0xCF40ACBed3f6307C33bF00680c9eDaE8F7d789fF",
-      "attributes": {
-        "address": "0xCF40ACBed3f6307C33bF00680c9eDaE8F7d789fF",
-        "name": "POCHITA",
-        "symbol": "POCHITA",
-        "decimals": 18,
-        "initialSupply": "10000000000000000000000000000000",
-        "logoUrl": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0xCF40ACBed3f6307C33bF00680c9eDaE8F7d789fF.png"
-      }
-    },
-    {
-      "id": "sei_0x9D9b12c69555669966D36596C56061B6Cc0A937D",
-      "attributes": {
-        "address": "0x9D9b12c69555669966D36596C56061B6Cc0A937D",
-        "name": "xSEIYAN",
-        "symbol": "xSEIYAN",
-        "decimals": 18,
-        "initialSupply": "1000000000000000000000",
-        "logoUrl": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0x9D9b12c69555669966D36596C56061B6Cc0A937D.png"
-      }
-    },
-    {
-      "id": "sei_0x57fBA850EfcA7c72c270A252383767D741C3017F",
-      "attributes": {
-        "address": "0x57fBA850EfcA7c72c270A252383767D741C3017F",
-        "name": "KOSEI",
-        "symbol": "KOSEI",
-        "decimals": 6,
-        "initialSupply": "1000000000000000000000",
-        "logoUrl": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0x57fBA850EfcA7c72c270A252383767D741C3017F.png"
-      }
-    },
-    {
-      "id": "sei_0x00bc9aF972B5fb3b7fA04827bD3C17d4599BAd8b",
-      "attributes": {
-        "address": "0x00bc9aF972B5fb3b7fA04827bD3C17d4599BAd8b",
-        "name": "WAIT",
-        "symbol": "WAIT",
-        "decimals": 6,
-        "initialSupply": "1000000000000000000000",
-        "logoUrl": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0x00bc9aF972B5fb3b7fA04827bD3C17d4599BAd8b.png"
-      }
-    },
-    {
-      "id": "sei_0x0555E30da8f98308EdB960aa94C0Db47230d2B9c",
-      "attributes": {
-        "address": "0x0555E30da8f98308EdB960aa94C0Db47230d2B9c",
-        "name": "Wrapped BTC",
-        "symbol": "WBTC",
-        "decimals": 8,
-        "initialSupply": "1000000000000000000000",
-        "logoUrl": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0x0555E30da8f98308EdB960aa94C0Db47230d2B9c.png"
-      }
-    },
-    {
-      "id": "sei_0x83c82f0f959aD3eff528eE513b43808Aa53f4B37",
-      "attributes": {
-        "address": "0x83c82f0f959aD3eff528eE513b43808Aa53f4B37",
-        "name": "Rock",
-        "symbol": "ROCK",
-        "decimals": 6,
-        "initialSupply": "1000000000000000000000",
-        "logoUrl": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0x83c82f0f959aD3eff528eE513b43808Aa53f4B37.png"
-      }
-    },
-    {
-      "id": "sei_0x09d9420332bff75522a45fcff4855f82a0a3ff50",
-      "attributes": {
-        "address": "0x09d9420332bff75522a45fcff4855f82a0a3ff50",
-        "name": "Dinero",
-        "symbol": "DINERO",
-        "decimals": 18,
-        "initialSupply": "1000000000000000000000",
-        "logoUrl": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0x09d9420332bff75522a45fcff4855f82a0a3ff50.png"
-      }
-    },
-    {
-      "id": "sei_0x059A6b0bA116c63191182a0956cF697d0d2213eC",
-      "attributes": {
-        "address": "0x059A6b0bA116c63191182a0956cF697d0d2213eC",
-        "name": "Synnax Stablecoin",
-        "symbol": "syUSD",
-        "decimals": 18,
-        "initialSupply": "1000000000000000000000",
-        "logoUrl": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0x059A6b0bA116c63191182a0956cF697d0d2213eC.png"
-      }
-    },
-    {
-      "id": "sei_0xdf77686D99667Ae56BC18f539B777DBc2BBE3E9F",
-      "attributes": {
-        "address": "0xdf77686D99667Ae56BC18f539B777DBc2BBE3E9F",
-        "name": "Staked fastUSD",
-        "symbol": "sfastUSD",
-        "decimals": 18,
-        "initialSupply": "1000000000000000000000",
-        "logoUrl": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0xdf77686D99667Ae56BC18f539B777DBc2BBE3E9F.png"
-      }
-    },
-    {
-        "id": "sei_0x5Bff88cA1442c2496f7E475E9e7786383Bc070c0",
-        "attributes": {
-          "address": "0x5Bff88cA1442c2496f7E475E9e7786383Bc070c0",
-          "name": "Staked Frax",
-          "symbol": "SFRAX",
-          "decimals": 18,
-          "initialSupply": "1000000000000000000000",
-          "logoUrl": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0x5Bff88cA1442c2496f7E475E9e7786383Bc070c0.png"
-      }
-    },
-    {
-        "id": "sei_0x4c6Dd2CA85Ca55C4607Cd66A7EBdD2C9b58112Cf",
-        "attributes": {
-          "address": "0x4c6Dd2CA85Ca55C4607Cd66A7EBdD2C9b58112Cf",
-          "name": "jUSD",
-          "symbol": "jUSD",
-          "decimals": 18,
-          "initialSupply": "1000000000000000000000",
-          "logoUrl": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0x4c6Dd2CA85Ca55C4607Cd66A7EBdD2C9b58112Cf.png"
-      }
-    },
-      {
-        "id": "sei_0x6ab5d5e96ac59f66bab57450275cc16961219796",
-        "attributes": {
-          "address": "0x6ab5d5e96ac59f66bab57450275cc16961219796",
-          "name": "sUSDa",
-          "symbol": "sUSDa",
-          "decimals": 18,
-          "initialSupply": "1000000000000000000000",
-          "logoUrl": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0x6ab5d5e96ac59f66bab57450275cc16961219796.png"
-        }
-     },
-      {
-        "id": "sei_0xff12470a969Dd362EB6595FFB44C82c959Fe9ACc",
-        "attributes": {
-          "address": "0xff12470a969Dd362EB6595FFB44C82c959Fe9ACc",
-          "name": "USDa",
-          "symbol": "USDa",
-          "decimals": 18,
-          "initialSupply": "1000000000000000000000",
-          "logoUrl": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0xff12470a969Dd362EB6595FFB44C82c959Fe9ACc.png"
-      }
-     },
-      {
-        "id": "sei_0xBE574b6219C6D985d08712e90C21A88fd55f1ae8",
-        "attributes": {
-          "address": "0xBE574b6219C6D985d08712e90C21A88fd55f1ae8",
-          "name": "WSTETH",
-          "symbol": "WSTETH",
-          "decimals": 18,
-          "initialSupply": "1000000000000000000000",
-          "logoUrl": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0xBE574b6219C6D985d08712e90C21A88fd55f1ae8.png"
-       }
-      }
-  ]
-  
+  {
+    "id": "sei_0xe30fedd158a2e3b13e9badaeabafc5516e95e8c7",
+    "attributes": {
+      "address": "0xe30fedd158a2e3b13e9badaeabafc5516e95e8c7",
+      "name": "Wrapped Sei",
+      "symbol": "WSEI",
+      "decimals": 18,
+      "initialSupply": "10000000000000000000",
+      "logoUrl": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0xe30fedd158a2e3b13e9badaeabafc5516e95e8c7.png"
+    }
+  },
+  {
+    "id": "sei_0x5f0e07dfee5832faa00c63f2d33a0d79150e8598",
+    "attributes": {
+      "address": "0x5f0e07dfee5832faa00c63f2d33a0d79150e8598",
+      "name": "SEIYAN",
+      "symbol": "SEIYAN",
+      "decimals": 6,
+      "initialSupply": "1000000000000000000000",
+      "logoUrl": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0x5f0e07dfee5832faa00c63f2d33a0d79150e8598.png"
+    }
+  },
+  {
+    "id": "sei_0x5cf6826140c1c56ff49c808a1a75407cd1df9423",
+    "attributes": {
+      "address": "0x5cf6826140c1c56ff49c808a1a75407cd1df9423",
+      "name": "iSEI",
+      "symbol": "iSEI",
+      "decimals": 6,
+      "initialSupply": "10000000000000000000000000000000",
+      "logoUrl": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0x5cf6826140c1c56ff49c808a1a75407cd1df9423.png"
+    }
+  },
+  {
+    "id": "sei_0x3894085ef7ff0f0aedf52e2a2704928d1ec074f1",
+    "attributes": {
+      "address": "0x3894085ef7ff0f0aedf52e2a2704928d1ec074f1",
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "decimals": 6,
+      "initialSupply": "10000000000000000000",
+      "logoUrl": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0x3894085ef7ff0f0aedf52e2a2704928d1ec074f1.png"
+    }
+  },
+  {
+    "id": "sei_0xb75d0b03c06a926e488e2659df1a861f860bd3d1",
+    "attributes": {
+      "address": "0xb75d0b03c06a926e488e2659df1a861f860bd3d1",
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": 6,
+      "initialSupply": "10000000000000000000000000000000",
+      "logoUrl": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0xb75d0b03c06a926e488e2659df1a861f860bd3d1.png"
+    }
+  },
+  {
+    "id": "sei_0x160345fc359604fc6e70e3c5facbde5f7a9342d8",
+    "attributes": {
+      "address": "0x160345fc359604fc6e70e3c5facbde5f7a9342d8",
+      "name": "Bridged Wrapped Ether (Stargate)",
+      "symbol": "WETH",
+      "decimals": 18,
+      "initialSupply": "10000000000000000000000000000000",
+      "logoUrl": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0x160345fc359604fc6e70e3c5facbde5f7a9342d8.png"
+    }
+  },
+  {
+    "id": "sei_0xc18b6a15fb0ceaf5eb18696eefcb5bc7b9107149",
+    "attributes": {
+      "address": "0xc18b6a15fb0ceaf5eb18696eefcb5bc7b9107149",
+      "name": "POPO",
+      "symbol": "POPO",
+      "decimals": 18,
+      "initialSupply": "10000000000000000000000000000000",
+      "logoUrl": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0xc18b6a15fb0ceaf5eb18696eefcb5bc7b9107149.png"
+    }
+  },
+  {
+    "id": "sei_0x95597eb8d227a7c4b4f5e807a815c5178ee6dbe1",
+    "attributes": {
+      "address": "0x95597eb8d227a7c4b4f5e807a815c5178ee6dbe1",
+      "name": "MILLI",
+      "symbol": "MILLI",
+      "decimals": 6,
+      "initialSupply": "10000000000000000000000000000000",
+      "logoUrl": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0x95597eb8d227a7c4b4f5e807a815c5178ee6dbe1.png"
+    }
+  },
+  {
+    "id": "sei_0x64445f0aecc51e94ad52d8ac56b7190e764e561a",
+    "attributes": {
+      "address": "0x64445f0aecc51e94ad52d8ac56b7190e764e561a",
+      "name": "Frax Shares",
+      "symbol": "FXS",
+      "decimals": 18,
+      "initialSupply": "10000000000000000000000000000000",
+      "logoUrl": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0x64445f0aecc51e94ad52d8ac56b7190e764e561a.png"
+    }
+  },
+  {
+    "id": "sei_0x5c85726f71aFB7e26d769fB559Ce0168CE1F8f4E",
+    "attributes": {
+      "address": "0x5c85726f71aFB7e26d769fB559Ce0168CE1F8f4E",
+      "name": "SEI USAGI",
+      "symbol": "USA",
+      "decimals": 18,
+      "initialSupply": "10000000000000000000000000000000",
+      "logoUrl": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0x5c85726f71aFB7e26d769fB559Ce0168CE1F8f4E.png"
+    }
+  },
+  {
+    "id": "sei_0x9C367a272f8E318D10118C6367fD69DEf30e430E",
+    "attributes": {
+      "address": "0x9C367a272f8E318D10118C6367fD69DEf30e430E",
+      "name": "Pepei",
+      "symbol": "PEPEI",
+      "decimals": 18,
+      "initialSupply": "10000000000000000000000000000000",
+      "logoUrl": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0x9C367a272f8E318D10118C6367fD69DEf30e430E.png"
+    }
+  },
+  {
+    "id": "sei_0xECf7f1EFC9620A911339619C91c9FA0f71e0600E",
+    "attributes": {
+      "address": "0xECf7f1EFC9620A911339619C91c9FA0f71e0600E",
+      "name": "SEIYUN",
+      "symbol": "SEIYUN",
+      "decimals": 18,
+      "initialSupply": "10000000000000000000000000000000",
+      "logoUrl": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0xECf7f1EFC9620A911339619C91c9FA0f71e0600E.png"
+    }
+  },
+  {
+    "id": "sei_0xd78BE621436e69C81E4d0e9f29bE14C5EC51E6Ae",
+    "attributes": {
+      "address": "0xd78BE621436e69C81E4d0e9f29bE14C5EC51E6Ae",
+      "name": "$gonad",
+      "symbol": "$GONAD",
+      "decimals": 18,
+      "initialSupply": "10000000000000000000000000000000",
+      "logoUrl": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0xd78BE621436e69C81E4d0e9f29bE14C5EC51E6Ae.png"
+    }
+  },
+  {
+    "id": "sei_0x9134d733AaC991b96E899af657C717276A627E32",
+    "attributes": {
+      "address": "0x9134d733AaC991b96E899af657C717276A627E32",
+      "name": "FUCK ROY LOPEZ",
+      "symbol": "$FROY",
+      "decimals": 18,
+      "initialSupply": "10000000000000000000000000000000",
+      "logoUrl": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0x9134d733AaC991b96E899af657C717276A627E32.png"
+    }
+  },
+  {
+    "id": "sei_0xb8D41DB605A3258010D531429E85b13C7abdE579",
+    "attributes": {
+      "address": "0xb8D41DB605A3258010D531429E85b13C7abdE579",
+      "name": "CHUCKCOIN",
+      "symbol": "CHUCK",
+      "decimals": 18,
+      "initialSupply": "10000000000000000000000000000000",
+      "logoUrl": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0xb8D41DB605A3258010D531429E85b13C7abdE579.png"
+    }
+  },
+  {
+    "id": "sei_0xC6BC81A0E287cC8103cC002147a9d76caE4cD6E5",
+    "attributes": {
+      "address": "0xC6BC81A0E287cC8103cC002147a9d76caE4cD6E5",
+      "name": "SeiBallz",
+      "symbol": "BALLZ",
+      "decimals": 18,
+      "initialSupply": "10000000000000000000000000000000",
+      "logoUrl": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0xC6BC81A0E287cC8103cC002147a9d76caE4cD6E5.png"
+    }
+  },
+  {
+    "id": "sei_0xf5020DC8eC5e0ef8869Ecc3044933356650b61Cf",
+    "attributes": {
+      "address": "0xf5020DC8eC5e0ef8869Ecc3044933356650b61Cf",
+      "name": "Jay jeo",
+      "symbol": "JAYJEO",
+      "decimals": 18,
+      "initialSupply": "10000000000000000000000000000000",
+      "logoUrl": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0xf5020DC8eC5e0ef8869Ecc3044933356650b61Cf.png"
+    }
+  },
+  {
+    "id": "sei_0x6291148AE49e0f0d847bB97C4E060E49D87638bA",
+    "attributes": {
+      "address": "0x6291148AE49e0f0d847bB97C4E060E49D87638bA",
+      "name": "INSPECTOR",
+      "symbol": "REX",
+      "decimals": 18,
+      "initialSupply": "10000000000000000000000000000000",
+      "logoUrl": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0x6291148AE49e0f0d847bB97C4E060E49D87638bA.png"
+    }
+  },
+  {
+    "id": "sei_0xe5085112160ff75ee89a540cdba570eafdaf7f57",
+    "attributes": {
+      "address": "0xe5085112160ff75ee89a540cdba570eafdaf7f57",
+      "name": "stSEI",
+      "symbol": "STSEI",
+      "decimals": 6,
+      "initialSupply": "10000000000000000000000000000000",
+      "logoUrl": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0xe5085112160ff75ee89a540cdba570eafdaf7f57.png"
+    }
+  },
+  {
+    "id": "sei_0x80Eede496655FB9047dd39d9f418d5483ED600df",
+    "attributes": {
+      "address": "0x80Eede496655FB9047dd39d9f418d5483ED600df",
+      "name": "Frax USD",
+      "symbol": "frxUSD",
+      "decimals": 18,
+      "initialSupply": "10000000000000000000000000000000",
+      "logoUrl": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0x80Eede496655FB9047dd39d9f418d5483ED600df.png"
+    }
+  },
+  {
+    "id": "sei_0x3Ec3849C33291a9eF4c5dB86De593EB4A37fDe45",
+    "attributes": {
+      "address": "0x3Ec3849C33291a9eF4c5dB86De593EB4A37fDe45",
+      "name": "Staked Frax Ether",
+      "symbol": "sfrxETH",
+      "decimals": 18,
+      "initialSupply": "10000000000000000000000000000000",
+      "logoUrl": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0x3Ec3849C33291a9eF4c5dB86De593EB4A37fDe45.png"
+    }
+  },
+  {
+    "id": "sei_0x43eDD7f3831b08FE70B7555ddD373C8bF65a9050",
+    "attributes": {
+      "address": "0x43eDD7f3831b08FE70B7555ddD373C8bF65a9050",
+      "name": "Frax Ether",
+      "symbol": "frxETH",
+      "decimals": 18,
+      "initialSupply": "10000000000000000000000000000000",
+      "logoUrl": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0x43eDD7f3831b08FE70B7555ddD373C8bF65a9050.png"
+    }
+  },
+  {
+    "id": "sei_0x9fAaEA2CDd810b21594E54309DC847842Ae301Ce",
+    "attributes": {
+      "address": "0x9fAaEA2CDd810b21594E54309DC847842Ae301Ce",
+      "name": "seiyanETH",
+      "symbol": "seiyanETH",
+      "decimals": 18,
+      "initialSupply": "10000000000000000000000000000000",
+      "logoUrl": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0x9fAaEA2CDd810b21594E54309DC847842Ae301Ce.png"
+    }
+  },
+  {
+    "id": "sei_0xA8A3A5013104e093245164eA56588DBE10a3Eb48",
+    "attributes": {
+      "address": "0xA8A3A5013104e093245164eA56588DBE10a3Eb48",
+      "name": "ssETH",
+      "symbol": "ssETH",
+      "decimals": 18,
+      "initialSupply": "10000000000000000000000000000000",
+      "logoUrl": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0xA8A3A5013104e093245164eA56588DBE10a3Eb48.png"
+    }
+  },
+  {
+    "id": "sei_0xDD7d5e4Ea2125d43C16eEd8f1FFeFffa2F4b4aF6",
+    "attributes": {
+      "address": "0xDD7d5e4Ea2125d43C16eEd8f1FFeFffa2F4b4aF6",
+      "name": "Jelly Token",
+      "symbol": "JLY",
+      "decimals": 18,
+      "initialSupply": "10000000000000000000000000000000",
+      "logoUrl": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0xDD7d5e4Ea2125d43C16eEd8f1FFeFffa2F4b4aF6.png"
+    }
+  },
+  {
+    "id": "sei_0x51121BCAE92E302f19D06C193C95E1f7b81a444b",
+    "attributes": {
+      "address": "0x51121BCAE92E302f19D06C193C95E1f7b81a444b",
+      "name": "YAKA",
+      "symbol": "YAKA",
+      "decimals": 18,
+      "initialSupply": "10000000000000000000000000000000",
+      "logoUrl": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0x51121BCAE92E302f19D06C193C95E1f7b81a444b.png"
+    }
+  },
+  {
+    "id": "sei_0x37a4dD9CED2b19Cfe8FAC251cd727b5787E45269",
+    "attributes": {
+      "address": "0x37a4dD9CED2b19Cfe8FAC251cd727b5787E45269",
+      "name": "fastUSD",
+      "symbol": "fastUSD",
+      "decimals": 18,
+      "initialSupply": "10000000000000000000000000000000",
+      "logoUrl": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0x37a4dD9CED2b19Cfe8FAC251cd727b5787E45269.png"
+    }
+  },
+  {
+    "id": "sei_0x0DD9e6A6AEb91f1e3596F69d5443b6ca2e864896",
+    "attributes": {
+      "address": "0x0DD9e6A6AEb91f1e3596F69d5443b6ca2e864896",
+      "name": "SHENRN",
+      "symbol": "SHENRN",
+      "decimals": 6,
+      "initialSupply": "10000000000000000000000000000000",
+      "logoUrl": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0x0DD9e6A6AEb91f1e3596F69d5443b6ca2e864896.png"
+    }
+  },
+  {
+    "id": "sei_0xBd82f3bfE1dF0c84faEC88a22EbC34C9A86595dc",
+    "attributes": {
+      "address": "0xBd82f3bfE1dF0c84faEC88a22EbC34C9A86595dc",
+      "name": "CHIPS",
+      "symbol": "CHIPS",
+      "decimals": 6,
+      "initialSupply": "10000000000000000000000000000000",
+      "logoUrl": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0xBd82f3bfE1dF0c84faEC88a22EbC34C9A86595dc.png"
+    }
+  },
+  {
+    "id": "sei_0xe85dC0CCECa105755753Fef452C091dEF5324138",
+    "attributes": {
+      "address": "0xe85dC0CCECa105755753Fef452C091dEF5324138",
+      "name": "SAKEINU",
+      "symbol": "SAKE",
+      "decimals": 18,
+      "initialSupply": "10000000000000000000000000000000",
+      "logoUrl": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0xe85dC0CCECa105755753Fef452C091dEF5324138.png"
+    }
+  },
+  {
+    "id": "sei_0x3eA30C06F4BA6f696D3ba4b660C39DA96ed8f686",
+    "attributes": {
+      "address": "0x3eA30C06F4BA6f696D3ba4b660C39DA96ed8f686",
+      "name": "Seibacca",
+      "symbol": "SBC",
+      "decimals": 18,
+      "initialSupply": "10000000000000000000000000000000",
+      "logoUrl": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0x3eA30C06F4BA6f696D3ba4b660C39DA96ed8f686.png"
+    }
+  },
+  {
+    "id": "sei_0xd0D622dE44A521404dc50e4ABef08dE82269Dcbf",
+    "attributes": {
+      "address": "0xd0D622dE44A521404dc50e4ABef08dE82269Dcbf",
+      "name": "SEIFUN",
+      "symbol": "SFN",
+      "decimals": 18,
+      "initialSupply": "10000000000000000000000000000000",
+      "logoUrl": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0xd0D622dE44A521404dc50e4ABef08dE82269Dcbf.png"
+    }
+  },
+  {
+    "id": "sei_0x893CC8a006b88BeeF66c79bBb1C14b9c6c0AD7Cc",
+    "attributes": {
+      "address": "0x893CC8a006b88BeeF66c79bBb1C14b9c6c0AD7Cc",
+      "name": "UMI",
+      "symbol": "UMI",
+      "decimals": 6,
+      "initialSupply": "10000000000000000000000000000000",
+      "logoUrl": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0x893CC8a006b88BeeF66c79bBb1C14b9c6c0AD7Cc.png"
+    }
+  },
+  {
+    "id": "sei_0x962Aae191622498BcA205c1c1B73E59aC7d295f2",
+    "attributes": {
+      "address": "0x962Aae191622498BcA205c1c1B73E59aC7d295f2",
+      "name": "WILSON",
+      "symbol": "WILSON",
+      "decimals": 6,
+      "initialSupply": "10000000000000000000000000000000",
+      "logoUrl": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0x962Aae191622498BcA205c1c1B73E59aC7d295f2.png"
+    }
+  },
+  {
+    "id": "sei_0x3A0A7a3cA25C17D15E8d51332fb25BFEA274d107",
+    "attributes": {
+      "address": "0x3A0A7a3cA25C17D15E8d51332fb25BFEA274d107",
+      "name": "SEIPEX CREDITS",
+      "symbol": "SPEX",
+      "decimals": 6,
+      "initialSupply": "10000000000000000000000000000000",
+      "logoUrl": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0x3A0A7a3cA25C17D15E8d51332fb25BFEA274d107.png"
+    }
+  },
+  {
+    "id": "sei_0x67DA7010C6c231AD620E3940e707adB6c1a08f23",
+    "attributes": {
+      "address": "0x67DA7010C6c231AD620E3940e707adB6c1a08f23",
+      "name": "SeiWhale",
+      "symbol": "SEIWHALE",
+      "decimals": 6,
+      "initialSupply": "10000000000000000000000000000000",
+      "logoUrl": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0x67DA7010C6c231AD620E3940e707adB6c1a08f23.png"
+    }
+  },
+  {
+    "id": "sei_0xF20903d034B12a7266055FE97cEBdB9199Ec6925",
+    "attributes": {
+      "address": "0xF20903d034B12a7266055FE97cEBdB9199Ec6925",
+      "name": "BOOBLE",
+      "symbol": "BOOBLE",
+      "decimals": 18,
+      "initialSupply": "10000000000000000000000000000000",
+      "logoUrl": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0xF20903d034B12a7266055FE97cEBdB9199Ec6925.png"
+    }
+  },
+  {
+    "id": "sei_0x51c8F5D0305Ac6880B775eEDD217E400485c6A19",
+    "attributes": {
+      "address": "0x51c8F5D0305Ac6880B775eEDD217E400485c6A19",
+      "name": "NAPCAT",
+      "symbol": "NAPCAT",
+      "decimals": 18,
+      "initialSupply": "10000000000000000000000000000000",
+      "logoUrl": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0x51c8F5D0305Ac6880B775eEDD217E400485c6A19.png"
+    }
+  },
+  {
+    "id": "sei_0x490736a46aaBa689Db5265510B5C53aF4c23DEd4",
+    "attributes": {
+      "address": "0x490736a46aaBa689Db5265510B5C53aF4c23DEd4",
+      "name": "Happy Ape",
+      "symbol": "HAPE",
+      "decimals": 6,
+      "initialSupply": "10000000000000000000000000000000",
+      "logoUrl": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0x490736a46aaBa689Db5265510B5C53aF4c23DEd4.png"
+    }
+  },
+  {
+    "id": "sei_0xc972106cA2560fA0065e1CA01C9dC6D6e80cC7a1",
+    "attributes": {
+      "address": "0xc972106cA2560fA0065e1CA01C9dC6D6e80cC7a1",
+      "name": "SLOW",
+      "symbol": "SLOW",
+      "decimals": 6,
+      "initialSupply": "10000000000000000000000000000000",
+      "logoUrl": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0xc972106cA2560fA0065e1CA01C9dC6D6e80cC7a1.png"
+    }
+  },
+  {
+    "id": "sei_0x8c5529ad032c48bc6413Df8e8dC83D26Dc680079",
+    "attributes": {
+      "address": "0x8c5529ad032c48bc6413Df8e8dC83D26Dc680079",
+      "name": "Sei Less",
+      "symbol": "LESS",
+      "decimals": 18,
+      "initialSupply": "10000000000000000000000000000000",
+      "logoUrl": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0x8c5529ad032c48bc6413Df8e8dC83D26Dc680079.png"
+    }
+  },
+  {
+    "id": "sei_0xd0C7EdF2109bE009364ac3DB76C6fE8a75728657",
+    "attributes": {
+      "address": "0xd0C7EdF2109bE009364ac3DB76C6fE8a75728657",
+      "name": "LORD SHISHO",
+      "symbol": "SHISHO",
+      "decimals": 6,
+      "initialSupply": "10000000000000000000000000000000",
+      "logoUrl": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0xd0C7EdF2109bE009364ac3DB76C6fE8a75728657.png"
+    }
+  },
+  {
+    "id": "sei_0x74547390fe40D5cEA666008D44feBe1340E7a3B0",
+    "attributes": {
+      "address": "0x74547390fe40D5cEA666008D44feBe1340E7a3B0",
+      "name": "Oolong",
+      "symbol": "OOLONG",
+      "decimals": 6,
+      "initialSupply": "10000000000000000000000000000000",
+      "logoUrl": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0x74547390fe40D5cEA666008D44feBe1340E7a3B0.png"
+    }
+  },
+  {
+    "id": "sei_0x69e48cE9CF965aCc1DE2aD5ad2FdbC3Bdb51509b",
+    "attributes": {
+      "address": "0x69e48cE9CF965aCc1DE2aD5ad2FdbC3Bdb51509b",
+      "name": "COOK",
+      "symbol": "COOK",
+      "decimals": 6,
+      "initialSupply": "10000000000000000000000000000000",
+      "logoUrl": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0x69e48cE9CF965aCc1DE2aD5ad2FdbC3Bdb51509b.png"
+    }
+  },
+  {
+    "id": "sei_0xF9BDbF259eCe5ae17e29BF92EB7ABd7B8b465Db9",
+    "attributes": {
+      "address": "0xF9BDbF259eCe5ae17e29BF92EB7ABd7B8b465Db9",
+      "name": "Froggy",
+      "symbol": "FROG",
+      "decimals": 18,
+      "initialSupply": "10000000000000000000000000000000",
+      "logoUrl": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0xF9BDbF259eCe5ae17e29BF92EB7ABd7B8b465Db9.png"
+    }
+  },
+  {
+    "id": "sei_0xCF40ACBed3f6307C33bF00680c9eDaE8F7d789fF",
+    "attributes": {
+      "address": "0xCF40ACBed3f6307C33bF00680c9eDaE8F7d789fF",
+      "name": "POCHITA",
+      "symbol": "POCHITA",
+      "decimals": 18,
+      "initialSupply": "10000000000000000000000000000000",
+      "logoUrl": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0xCF40ACBed3f6307C33bF00680c9eDaE8F7d789fF.png"
+    }
+  },
+  {
+    "id": "sei_0x9D9b12c69555669966D36596C56061B6Cc0A937D",
+    "attributes": {
+      "address": "0x9D9b12c69555669966D36596C56061B6Cc0A937D",
+      "name": "xSEIYAN",
+      "symbol": "xSEIYAN",
+      "decimals": 18,
+      "initialSupply": "1000000000000000000000",
+      "logoUrl": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0x9D9b12c69555669966D36596C56061B6Cc0A937D.png"
+    }
+  },
+  {
+    "id": "sei_0x57fBA850EfcA7c72c270A252383767D741C3017F",
+    "attributes": {
+      "address": "0x57fBA850EfcA7c72c270A252383767D741C3017F",
+      "name": "KOSEI",
+      "symbol": "KOSEI",
+      "decimals": 6,
+      "initialSupply": "1000000000000000000000",
+      "logoUrl": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0x57fBA850EfcA7c72c270A252383767D741C3017F.png"
+    }
+  },
+  {
+    "id": "sei_0x00bc9aF972B5fb3b7fA04827bD3C17d4599BAd8b",
+    "attributes": {
+      "address": "0x00bc9aF972B5fb3b7fA04827bD3C17d4599BAd8b",
+      "name": "WAIT",
+      "symbol": "WAIT",
+      "decimals": 6,
+      "initialSupply": "1000000000000000000000",
+      "logoUrl": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0x00bc9aF972B5fb3b7fA04827bD3C17d4599BAd8b.png"
+    }
+  },
+  {
+    "id": "sei_0x0555E30da8f98308EdB960aa94C0Db47230d2B9c",
+    "attributes": {
+      "address": "0x0555E30da8f98308EdB960aa94C0Db47230d2B9c",
+      "name": "Wrapped BTC",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "initialSupply": "1000000000000000000000",
+      "logoUrl": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0x0555E30da8f98308EdB960aa94C0Db47230d2B9c.png"
+    }
+  },
+  {
+    "id": "sei_0x83c82f0f959aD3eff528eE513b43808Aa53f4B37",
+    "attributes": {
+      "address": "0x83c82f0f959aD3eff528eE513b43808Aa53f4B37",
+      "name": "Rock",
+      "symbol": "ROCK",
+      "decimals": 6,
+      "initialSupply": "1000000000000000000000",
+      "logoUrl": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0x83c82f0f959aD3eff528eE513b43808Aa53f4B37.png"
+    }
+  },
+  {
+    "id": "sei_0x09d9420332bff75522a45fcff4855f82a0a3ff50",
+    "attributes": {
+      "address": "0x09d9420332bff75522a45fcff4855f82a0a3ff50",
+      "name": "Dinero",
+      "symbol": "DINERO",
+      "decimals": 18,
+      "initialSupply": "1000000000000000000000",
+      "logoUrl": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0x09d9420332bff75522a45fcff4855f82a0a3ff50.png"
+    }
+  },
+  {
+    "id": "sei_0x059A6b0bA116c63191182a0956cF697d0d2213eC",
+    "attributes": {
+      "address": "0x059A6b0bA116c63191182a0956cF697d0d2213eC",
+      "name": "Synnax Stablecoin",
+      "symbol": "syUSD",
+      "decimals": 18,
+      "initialSupply": "1000000000000000000000",
+      "logoUrl": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0x059A6b0bA116c63191182a0956cF697d0d2213eC.png"
+    }
+  },
+  {
+    "id": "sei_0xea3910f1C6E687B59835885904A2FD1944B51Ec6",
+    "attributes": {
+      "address": "0xea3910f1C6E687B59835885904A2FD1944B51Ec6",
+      "name": "OFFICIAL TRUMP",
+      "symbol": "TRUMP",
+      "decimals": 18,
+      "initialSupply": "1000000000000000000000",
+      "logoUrl": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0xea3910f1C6E687B59835885904A2FD1944B51Ec6.png"
+    }
+  },
+  {
+    "id": "sei_0xdf77686D99667Ae56BC18f539B777DBc2BBE3E9F",
+    "attributes": {
+      "address": "0xdf77686D99667Ae56BC18f539B777DBc2BBE3E9F",
+      "name": "Staked fastUSD",
+      "symbol": "sfastUSD",
+      "decimals": 18,
+      "initialSupply": "1000000000000000000000",
+      "logoUrl": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0xdf77686D99667Ae56BC18f539B777DBc2BBE3E9F.png"
+    }
+  },
+  {
+    "id": "sei_0x5Bff88cA1442c2496f7E475E9e7786383Bc070c0",
+    "attributes": {
+      "address": "0x5Bff88cA1442c2496f7E475E9e7786383Bc070c0",
+      "name": "Staked Frax USD",
+      "symbol": "sfrxUSD",
+      "decimals": 18, 
+      "initialSupply": "1000000000000000000000",
+      "logoUrl": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0x5Bff88cA1442c2496f7E475E9e7786383Bc070c0.png"
+    }
+  },
+  {
+    "id": "sei_0x049EAa1B2C9934aaAcC12a141484eEfd62867653",
+    "attributes": {
+      "address": "0x049EAa1B2C9934aaAcC12a141484eEfd62867653",
+      "name": "jUSD",
+      "symbol": "jUSD",
+      "decimals": 18,
+      "initialSupply": "1000000000000000000000",
+      "logoUrl": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0x049EAa1B2C9934aaAcC12a141484eEfd62867653.png"
+    }
+  },
+  {
+    "id": "sei_0x6ab5d5e96ac59f66bab57450275cc16961219796",
+    "attributes": {
+      "address": "0x6ab5d5e96ac59f66bab57450275cc16961219796",
+      "name": "sUSDa",
+      "symbol": "sUSDa",
+      "decimals": 18,
+      "initialSupply": "1000000000000000000000",
+      "logoUrl": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0x6ab5d5e96ac59f66bab57450275cc16961219796.png"
+    }
+  },
+  {
+    "id": "sei_0xff12470a969Dd362EB6595FFB44C82c959Fe9ACc",
+    "attributes": {
+      "address": "0xff12470a969Dd362EB6595FFB44C82c959Fe9ACc",
+      "name": "USDa",
+      "symbol": "USDa",
+      "decimals": 18,
+      "initialSupply": "1000000000000000000000",
+      "logoUrl": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0xff12470a969Dd362EB6595FFB44C82c959Fe9ACc.png"
+   }
+  },
+  {
+    "id": "sei_0xBE574b6219C6D985d08712e90C21A88fd55f1ae8",
+    "attributes": {
+      "address": "0xBE574b6219C6D985d08712e90C21A88fd55f1ae8",
+      "name": "WSTETH",
+      "symbol": "WSTETH",
+      "decimals": 18,
+      "initialSupply": "1000000000000000000000",
+      "logoUrl": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0xBE574b6219C6D985d08712e90C21A88fd55f1ae8.png"
+   }
+  }
+]
