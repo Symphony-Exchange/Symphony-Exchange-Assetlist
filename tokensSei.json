@@ -724,5 +724,16 @@
       "initialSupply": "1000000000000000000000",
       "logoUrl": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0xd049e189acc1873bca8c0a314d6b26835684fb89.png"
    }
+  },
+  {
+    "id": "sei_0x4605232ea642a328bdc036f2eba9b8c4c59b6cf8",
+    "attributes": {
+      "address": "0x4605232ea642a328bdc036f2eba9b8c4c59b6cf8",
+      "name": "BULLX",
+      "symbol": "BULLX",
+      "decimals": 18,
+      "initialSupply": "1000000000000000000000",
+      "logoUrl": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0x4605232ea642a328bdc036f2eba9b8c4c59b6cf8.png"
+   }
   }
 ]
