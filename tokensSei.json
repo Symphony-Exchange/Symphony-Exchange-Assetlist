@@ -36,7 +36,18 @@
     "id": "sei_0x3894085ef7ff0f0aedf52e2a2704928d1ec074f1",
     "attributes": {
       "address": "0x3894085ef7ff0f0aedf52e2a2704928d1ec074f1",
-      "name": "USD Coin",
+      "name": "USDC via Noble",
+      "symbol": "USDC.n",
+      "decimals": 6,
+      "initialSupply": "10000000000000000000",
+      "logoUrl": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0x3894085ef7ff0f0aedf52e2a2704928d1ec074f1.png"
+    }
+  },
+  {
+    "id": "sei_0xe15fc38f6d8c56af07bbcbe3baf5708a2bf42392",
+    "attributes": {
+      "address": "0xe15fc38f6d8c56af07bbcbe3baf5708a2bf42392",
+      "name": "USDC",
       "symbol": "USDC",
       "decimals": 6,
       "initialSupply": "10000000000000000000",
