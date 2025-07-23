@@ -757,5 +757,38 @@
       "initialSupply": "1000000000000000000000",
       "logoUrl": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0x0a526e425809aEA71eb279d24ae22Dee6C92A4Fe.png"
    }
+  },
+  {
+    "id": "sei_0x049eaa1b2c9934aaacc12a141484eefd62867653",
+    "attributes": {
+      "address": "0x049eaa1b2c9934aaacc12a141484eefd62867653",
+      "name": "aUSD",
+      "symbol": "aUSD",
+      "decimals": 18,
+      "initialSupply": "1000000000000000000000",
+      "logoUrl": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0x049eaa1b2c9934aaacc12a141484eefd62867653.png"
+   }
+  },
+  {
+    "id": "sei_0x7d330358f0be21feeb751d0622ffee04e25d7dfa",
+    "attributes": {
+      "address": "0x7d330358f0be21feeb751d0622ffee04e25d7dfa",
+      "name": "aMSTR",
+      "symbol": "aMSTR",
+      "decimals": 18,
+      "initialSupply": "1000000000000000000000",
+      "logoUrl": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0x7d330358f0be21feeb751d0622ffee04e25d7dfa.png"
+   }
+  },
+  {
+    "id": "sei_0x5b8203e65aa5be3f1cf53fd7fa21b91ba4038ecc",
+    "attributes": {
+      "address": "0x5b8203e65aa5be3f1cf53fd7fa21b91ba4038ecc",
+      "name": "APO",
+      "symbol": "APO",
+      "decimals": 18,
+      "initialSupply": "1000000000000000000000",
+      "logoUrl": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0x5b8203e65aa5be3f1cf53fd7fa21b91ba4038ecc.png"
+   }
   }
 ]
