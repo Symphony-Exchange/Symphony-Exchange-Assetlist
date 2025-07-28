@@ -627,17 +627,6 @@
     }
   },
   {
-    "id": "sei_0x049EAa1B2C9934aaAcC12a141484eEfd62867653",
-    "attributes": {
-      "address": "0x049EAa1B2C9934aaAcC12a141484eEfd62867653",
-      "name": "jUSD",
-      "symbol": "jUSD",
-      "decimals": 18,
-      "initialSupply": "1000000000000000000000",
-      "logoUrl": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0x049EAa1B2C9934aaAcC12a141484eEfd62867653.png"
-    }
-  },
-  {
     "id": "sei_0x6ab5d5e96ac59f66bab57450275cc16961219796",
     "attributes": {
       "address": "0x6ab5d5e96ac59f66bab57450275cc16961219796",
