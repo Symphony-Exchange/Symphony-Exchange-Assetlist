@@ -779,5 +779,16 @@
       "initialSupply": "1000000000000000000000",
       "logoUrl": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0x5b8203e65aa5be3f1cf53fd7fa21b91ba4038ecc.png"
    }
-  }
+  },
+  {
+    "id": "sei_0xc257361320f4514d91c05f461006ce6a0300e2d2",
+    "attributes": {
+      "address": "0xc257361320f4514d91c05f461006ce6a0300e2d2",
+      "name": "Splashing SEI",
+      "symbol": "spSEI",
+      "decimals": 18,
+      "initialSupply": "10000000000000000000",
+      "logoUrl":
+        "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0xc257361320f4514d91c05f461006ce6a0300e2d2.png",
+    },
 ]
