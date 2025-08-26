@@ -88,6 +88,17 @@
     }
   },
   {
+    "id": "sei_0x888d81e3ea5E8362B5f69188CBCF34Fa8da4b888",
+    "attributes": {
+      "address": "0x888d81e3ea5E8362B5f69188CBCF34Fa8da4b888",
+      "name": "LARRY TALBOT",
+      "symbol": "LARRY",
+      "decimals": 18,
+      "initialSupply": "1000000000000000000000000000",
+      "logoUrl": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0x888d81e3ea5E8362B5f69188CBCF34Fa8da4b888.png"
+    }
+  },
+  {
     "id": "sei_0x95597eb8d227a7c4b4f5e807a815c5178ee6dbe1",
     "attributes": {
       "address": "0x95597eb8d227a7c4b4f5e807a815c5178ee6dbe1",
@@ -788,7 +799,6 @@
       "symbol": "spSEI",
       "decimals": 18,
       "initialSupply": "10000000000000000000",
-      "logoUrl":
-        "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0xc257361320f4514d91c05f461006ce6a0300e2d2.png",
-    },
+      "logoUrl": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0xc257361320f4514d91c05f461006ce6a0300e2d2.png"
+    }
 ]
