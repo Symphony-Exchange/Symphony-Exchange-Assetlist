@@ -823,5 +823,16 @@
       "initialSupply": "10000000000000000000",
       "logoUrl": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0x81d3a238b02827f62b9f390f947d36d4a5bf89d2.png"
     }
+  },
+  "0x8EE050F6af49a6B7fd8557d0E75219D66f5F6094": {
+    "id": "sei_0x8EE050F6af49a6B7fd8557d0E75219D66f5F6094",
+    "attributes": {
+      "address": "0x8EE050F6af49a6B7fd8557d0E75219D66f5F6094",
+      "name": "Oxium",
+      "symbol": "OXI",
+      "decimals": 18,
+      "initialSupply": "10000000000000000000",
+      "logoUrl": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0x8EE050F6af49a6B7fd8557d0E75219D66f5F6094.png"
+    }
   }
 }
