@@ -834,5 +834,60 @@
       "initialSupply": "10000000000000000000",
       "logoUrl": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0x8EE050F6af49a6B7fd8557d0E75219D66f5F6094.png"
     }
+  },
+  "0x7d330358f0be21feeb751d0622ffee04e25d7dfa": {
+    "id": "sei_0x7d330358f0be21feeb751d0622ffee04e25d7dfa",
+    "attributes": {
+      "address": "0x7d330358f0be21feeb751d0622ffee04e25d7dfa",
+      "name": "aMSTR",
+      "symbol": "aMSTR",
+      "decimals": 18,
+      "initialSupply": "10000000000000000000",
+      "logoUrl": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0x7d330358f0be21feeb751d0622ffee04e25d7dfa.png"
+    }
+  },
+  "0x77c9aa3d760a18321e61544bbd3d36c2f2b851dd": {
+    "id": "sei_0x77c9aa3d760a18321e61544bbd3d36c2f2b851dd",
+    "attributes": {
+      "address": "0x77c9aa3d760a18321e61544bbd3d36c2f2b851dd",
+      "name": "aTSLA",
+      "symbol": "aTSLA",
+      "decimals": 18,
+      "initialSupply": "10000000000000000000",
+      "logoUrl": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0x77c9aa3d760a18321e61544bbd3d36c2f2b851dd.png"
+    }
+  },
+  "0xaf804c66d27f97c2c9834c6837616547e1ecaba3": {
+    "id": "sei_0xaf804c66d27f97c2c9834c6837616547e1ecaba3",
+    "attributes": {
+      "address": "0xaf804c66d27f97c2c9834c6837616547e1ecaba3",
+      "name": "aPLTR",
+      "symbol": "aPLTR",
+      "decimals": 18,
+      "initialSupply": "10000000000000000000",
+      "logoUrl": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0xaf804c66d27f97c2c9834c6837616547e1ecaba3.png"
+    }
+  },
+  "0xd7c87e1806dae5313dbcf990197ee45ae126dbc5": {
+    "id": "sei_0xd7c87e1806dae5313dbcf990197ee45ae126dbc5",
+    "attributes": {
+      "address": "0xd7c87e1806dae5313dbcf990197ee45ae126dbc5",
+      "name": "aNVDA",
+      "symbol": "aNVDA",
+      "decimals": 18,
+      "initialSupply": "10000000000000000000",
+      "logoUrl": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0xd7c87e1806dae5313dbcf990197ee45ae126dbc5.png"
+    }
+  },
+  "0xd95c54a72e9593d55803df81c54cac40fef4aa06": {
+    "id": "sei_0xd95c54a72e9593d55803df81c54cac40fef4aa06",
+    "attributes": {
+      "address": "0xd95c54a72e9593d55803df81c54cac40fef4aa06",
+      "name": "alBIT",
+      "symbol": "alBIT",
+      "decimals": 18,
+      "initialSupply": "10000000000000000000",
+      "logoUrl": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0xd95c54a72e9593d55803df81c54cac40fef4aa06.png"
+    }
   }
 }
