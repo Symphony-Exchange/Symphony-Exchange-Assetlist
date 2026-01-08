@@ -878,5 +878,16 @@
       "initialSupply": "10000000000000000000",
       "logoUrl": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0xd95c54a72e9593d55803df81c54cac40fef4aa06.png"
     }
+  },
+  "0xedf7732991b3de8f46fb97dcd4c5cdb28e6ad859": {
+    "id": "0xedf7732991b3de8f46fb97dcd4c5cdb28e6ad859",
+    "attributes": {
+      "address": "0xedf7732991b3de8f46fb97dcd4c5cdb28e6ad859",
+      "name": "Tea-REX",
+      "symbol": "TReX",
+      "decimals": 18,
+      "initialSupply": "10000000000000000000",
+      "logoUrl": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0xedf7732991b3de8f46fb97dcd4c5cdb28e6ad859.png"
+    }
   }
 }
