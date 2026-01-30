@@ -889,5 +889,16 @@
       "initialSupply": "10000000000000000000",
       "logoUrl": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0xedf7732991b3de8f46fb97dcd4c5cdb28e6ad859.png"
     }
+  },
+  "0x54cd901491aef397084453f4372b93c33260e2a6":{
+      "id": "sei_0x54cd901491aef397084453f4372b93c33260e2a6",
+    "attributes": {
+      "address": "0x54cd901491aef397084453f4372b93c33260e2a6",
+      "name": "Ondo U.S. Dollar Yield",
+      "symbol": "USDY",
+      "decimals": 18,
+      "initialSupply": "10000000000000000000",
+      "logoUrl": "https://raw.githubusercontent.com/Symphony-Exchange/Symphony-Exchange-Assetlist/refs/heads/main/logos/0x54cd901491aef397084453f4372b93c33260e2a6.png"
+    }
   }
 }
